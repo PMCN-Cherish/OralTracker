@@ -88,6 +88,16 @@
 
 规则全文（R1–R4）见 `00-来源对照与迁移说明.md` 第五节。
 
+## 备份规则（已生效 2026-10-18 12:55）
+
+**本目录已纳入 git 备份。远端：`github-cherish:PMCN-Cherish/OralTracker.git`（SSH 别名走 `~/.ssh/id_cherish`，指纹 `SHA256:KAJQJlIcWiwO6RIswY1Sa1L/7a5iUkLEJqX9d3ox7xY`，账号 PMCN-Cherish）。**
+
+> **每次工作区有更新（新建/修改文件、新调研数据），落盘后立即 `git add -A && git commit && git push`，不留到下次。** 这是用户立的硬规则，优先级等同 R1–R4。
+
+- `.gitignore` 只排除系统垃圾文件（Thumbs.db / desktop.ini / __pycache__ 等），**所有项目数据（含原始 JSON、脚本、memory 日志）全部入库**
+- 分支：`main`；remote 名：`origin`（已设 upstream 跟踪）
+- 远端是全新空仓库历史，首个提交 `70305b3` 为 10/18 全量初始备份
+
 两个已知坑：
 - `_抓取脚本/` 里写死原始绝对路径，在副本里跑会写回原目录 → **副本只读不跑**；要重跑先改脚本里的输出路径
 - `03` 文件引用的 `时间与精力-B站调研报告.md` 不在本目录，那条指路点不开
