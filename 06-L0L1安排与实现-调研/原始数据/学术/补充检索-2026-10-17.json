@@ -1,0 +1,127 @@
+{
+  "补检背景": "OpenAlex 6 组被 429 限流（s1c 重试 4 次全部失败），Semantic Scholar 同样 429。改用 WebSearch + Crossref 补。以下每条都注明来源与可核对字段。",
+  "补检日期": "2026-10-17",
+  "记录": [
+    {
+      "id": "TR-meta-2025",
+      "title": "Task repetition and L2 oral performance: A meta-analysis",
+      "authors": "Abdi Tabari, M.; Zhuang, J.; Farahanynia, M.",
+      "venue": "System, Vol.135, 103868",
+      "year": 2025,
+      "doi": "10.1016/j.system.2025.103868",
+      "indexed": "Scopus + SSCI",
+      "refs_count": 108,
+      "cited": 6,
+      "来源": "https://www.sciencedirect.com/science/article/pii/S0346251X25002787 + https://ouci.dntb.gov.ua/works/4YmvOYr6/",
+      "核心结论": [
+        "TR 对句法复杂度和准确性影响大（substantial）",
+        "流利度与词汇复杂度虽为正，但增益较小（smaller gains）→ TR 主要改善结构层面",
+        "外语环境 > 二语环境的效果量（复杂度/准确性/流利度三者皆是）",
+        "叙事任务 + exact repetition 对句法复杂度特别有效",
+        "间隔越长（longer spacing intervals）复杂度与流利度效果越小 → 支持集中重复（massed）"
+      ],
+      "对本项目的意义": "这是本次最重要的修正来源：'同题重复3-5遍'主要买的是准确性和复杂度，不是流利度。L2 靶点是提取速度（流利），不能只靠重复，必须保留同义替换/句块化这类直接打提取的动作。",
+      "证据等级": "A-（SSCI 元分析，但 2025 新发，引用尚少，具体效应量未取到）"
+    },
+    {
+      "id": "Lambert2017",
+      "title": "Learner-generated content and the repetition of speaking tasks (32 Japanese learners, 6 performances)",
+      "authors": "Lambert, C.; Kormos, J.; Minn, D.",
+      "year": 2017,
+      "来源": "转述于 https://eflcafe.net/efl-esl-research-briefs/does-repeating-a-speaking-task-improve-fluency",
+      "核心结论": [
+        "同一任务说 6 次，即时重复在各个水平和任务类型上都提升流利度",
+        "语速（speech rate）增益集中在前三次，到第五次仍有少量改善",
+        "不同类型的停顿和修复在不同轮次改善"
+      ],
+      "对本项目的意义": "给 '3-5 遍' 这个数字提供了实证出处：前 3 遍是主要收益区，第 4-5 遍是尾巴。不必做第 6 遍以上。",
+      "证据等级": "B+（n=32，未取到原文，经二级来源转述）"
+    },
+    {
+      "id": "RR-adult-table",
+      "title": "Reading Rate Gain in a Second Language: The Effect of Unassisted Repeated Reading and Intensity on Word-level Reading Measures",
+      "venue": "Reading Matrix",
+      "year": "约 2021",
+      "来源": "https://www.readingmatrix.com/files/27-h5uwmwzv.pdf",
+      "汇总表_成人EFL重复阅读研究": [
+        {"study": "Taguchi 1997", "ctx": "EFL 日语母语", "RR_per_passage": 7, "weeks": 10, "sessions": 30, "gain_wpm": "+20", "d": 1.19},
+        {"study": "Taguchi & Gorsuch 2002", "ctx": "EFL 日语母语", "RR_per_passage": 5, "weeks": 10, "sessions": 28, "gain_wpm": "+40", "d": 1.33},
+        {"study": "Taguchi et al. 2004", "ctx": "EFL 日语母语", "RR_per_passage": 5, "weeks": 17, "sessions": 42, "gain_wpm": "-3", "d": -0.14},
+        {"study": "Gorsuch & Taguchi 2008", "ctx": "EFL 越南语母语", "RR_per_passage": 5, "weeks": 11, "sessions": 22, "gain_wpm": "简答题 +20 / 自由回忆 -18", "d": "0.53 / -0.49"},
+        {"study": "Chang 2012", "ctx": "EFL 台湾", "RR_per_passage": 5, "weeks": 13, "sessions": 26, "gain_wpm": "+23", "d": 1.48},
+        {"study": "Chang & Millett 2013", "ctx": "EFL 台湾", "RR_per_passage": 5, "weeks": 13, "sessions": 26, "gain_wpm": "练过 +47 / 没练过 +45", "d": "1.58 / 1.55"},
+        {"study": "Lynn 2021", "ctx": "ESL 中日母语", "RR_per_passage": 5, "weeks": 14, "sessions": 18, "gain_wpm": "+6.4 / +1.2", "d": "0.203 / 0.05"}
+      ],
+      "关键提取": [
+        "疗程全部落在 10-17 周，每篇重复 5-7 遍 —— 这是成人 L2 的实测剂量区间",
+        "练过和没练过的文本增益几乎相同（+47 vs +45）→ 支持迁移到新材料",
+        "但同批学生读后做开放式回忆时速度增益变负（-18）→ 复述任务会吃掉读速增益"
+      ],
+      "对本项目的意义": "两条：① 5 遍是文献标准剂量，3-5 遍偏低但有 Lambert 2017 支持；② 计时读与脱稿复述必须分开练、分开测，不能捆在一轮里。",
+      "证据等级": "B（二手汇总表，原始研究多为 EFL 成人，但指标是阅读语速不是发音）"
+    },
+    {
+      "id": "Gorsuch2008",
+      "title": "Gorsuch & Taguchi 2008（11 周 RR，同批学生两种后测任务对比）",
+      "year": 2008,
+      "来源": "同上 Reading Matrix 汇总表 Table 1",
+      "核心结论": "同一批学习者、同样的重复阅读训练：读后做简答题 → 读速 +20 WPM（d=0.53）；读后做开放式回忆 → 读速 -18 WPM（d=-0.49）",
+      "对本项目的意义": "本次第二重要的操作结论：复述/回忆任务会把计时读的速度增益抵消甚至转负。四层训练里必须把'计时读'和'脱稿复述'分成两个独立环节，各自计时、各自判断，不能合并成'读+复述'一轮。",
+      "证据等级": "B+"
+    },
+    {
+      "id": "Riquelme-self-limit",
+      "title": "Riquelme, Roca & Coyle《The Effect of Repeated Reading on the Pronunciation of Young EFL Learners》作者自陈局限",
+      "venue": "Porta Linguarum 27",
+      "来源": "https://www.ugr.es/~portalin/articulos/PL_numero27/1_Irene_Riquelme.pdf",
+      "原文引述": "the design of the study did not allow us to claim with absolute certainty that the children were able to transfer their pronunciation gains from reading to genuine speech, as their oral production was too dependent on the story read in class.",
+      "对本项目的意义": "原文作者自己承认：重复阅读的发音增益能否迁移到真实说话，本研究无法证明。这直接支持'迁移环必须单独设、单独测'，而不是假定它自动发生。",
+      "证据等级": "原文自陈，A（作为局限陈述）"
+    },
+    {
+      "id": "Hsu2019",
+      "title": "Hsu 2019（任务重复 + 任务后转写）",
+      "year": 2019,
+      "来源": "转述于 https://eflcafe.net/efl-esl-research-briefs/does-repeating-a-speaking-task-improve-fluency",
+      "核心结论": "'任务重复 + 任务后转写'的学生，其准确性和迁移都强于'只重复不转写'的学生。",
+      "对本项目的意义": "L2 里的'转写'步骤不只是诊断工具，它本身是有效成分（把口头产出转成可视对象 → 触发自我监控）。原报告把转写当诊断手段，定位偏低。",
+      "证据等级": "B（经二级来源转述，未取原文）"
+    },
+    {
+      "id": "Zimmermann2019",
+      "title": "A Meta-Analysis of Non-Repetitive Reading Fluency Interventions for Students with Reading Difficulties",
+      "authors": "Zimmermann, L.M.; Reed, D.K.; Aloe, A.M.",
+      "venue": "Remedial and Special Education",
+      "year": 2019,
+      "doi": "10.1177/0741932519855058",
+      "来源": "https://dev.taleafrica.com/author/pamerj/page/8?print=print-search",
+      "核心结论": [
+        "非重复阅读干预整体 d=0.176（8 项研究）",
+        "直接对比'重复阅读 vs 非重复阅读'的研究，两者效果量相近"
+      ],
+      "对本项目的意义": "反向证据，必须登记：对 K-12 阅读困难学生，重复阅读相对'广泛阅读'的优势并不明显。说明'重复'本身可能不是关键成分，关键可能是'带反馈的纠错'（与 Lee 2014 一致）。→ 所以 L1 不能只数遍数，必须有纠错反馈。",
+      "证据等级": "B（元分析，但对象是 K-12 母语阅读困难学生，外推需谨慎）"
+    },
+    {
+      "id": "Maulinda2025",
+      "title": "The Impact of Repeated Reading Technique as A Phonological Practice Tool for Enhancing Pronunciation Clarity in EFL Learners at 11th Graders",
+      "authors": "Maulinda, I.; Prasetyaningrum, A.; Yusri, A.; Maysuroh, S.",
+      "venue": "Journal of Scientific Grade Pendidikan (e-journal.my.id)",
+      "year": 2025,
+      "来源": "https://doaj.org/article/3826447742754d4fb2c62a02b9559a86",
+      "设计": "准实验，非等组对照，n=26（实验 12 / 对照 14），11 年级，前后测口语朗读 + 音段与超音段评分量表",
+      "结果": "实验组 9.00→12.58（t=10.62, p<0.001）；对照组 9.00→9.64（t=1.64, p=0.125）；组间后测 p=0.009",
+      "对本项目的意义": "目前唯一近年、有对照组、同时评音段与超音段的 RR→发音清晰度研究。方向支持，但期刊层级低、样本小、无延迟后测。",
+      "证据等级": "C+（准实验，可作方向，不可作剂量依据）"
+    },
+    {
+      "id": "ReadersTheater2019",
+      "title": "Improving the English Reading Prosody of L2 Learners Through Readers Theater",
+      "venue": "ERIC EJ1258606",
+      "来源": "http://files.eric.ed.gov/fulltext/EJ1258606.pdf",
+      "核心结论": "重复朗读同一文本直到流利 → 阅读韵律（prosody）改善；机制是自动化释放注意力给韵律与语义。",
+      "对本项目的意义": "支持 L1 的'韵律优先于音素'（原报告 L1-2）。",
+      "证据等级": "C（质性为主，个案引述）"
+    }
+  ]
+}

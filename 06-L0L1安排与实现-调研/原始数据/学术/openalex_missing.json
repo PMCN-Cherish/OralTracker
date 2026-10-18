@@ -1,0 +1,32 @@
+{
+ "A1_reread": {
+  "core": "'repeated reading'",
+  "count": null,
+  "works": []
+ },
+ "A3_432": {
+  "core": "'4/3/2'",
+  "count": null,
+  "works": []
+ },
+ "B4_capt": {
+  "core": "'computer assisted pronunciation training'",
+  "count": null,
+  "works": []
+ },
+ "C2_intelligibility": {
+  "core": "'intelligibility' AND 'second language'",
+  "count": null,
+  "works": []
+ },
+ "E3_accent": {
+  "core": "'accent reduction'",
+  "count": null,
+  "works": []
+ },
+ "F1_taskrep_pron": {
+  "core": "'task repetition' AND 'pronunciation'",
+  "count": null,
+  "works": []
+ }
+}

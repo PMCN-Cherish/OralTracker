@@ -1,0 +1,55 @@
+[A_fluency_dims] LINGUISTIC DIMENSIONS OF COMPREHENSIBILITY AND PERCEIVED FLUENCY: AN INVESTIGATION OF COMP | 2019 | cites 120
+[A_fluency_dims] L2 repair fluency through the lenses of L1 repair fluency, cognitive fluency, and language | 2024 | cites 10
+[A_fluency_dims] Speed, breakdown, and repair: An investigation of fluency in long-term second-language spe | 2015 | cites 19
+[A_segalowitz] The multidimensionality of second language oral fluency: Interfacing cognitive fluency and | 2022 | cites 80
+[A_segalowitz] Second language fluency and its underlying cognitive and social determinants | 2016 | cites 168
+[A_segalowitz] Complexity, Accuracy, and Fluency in Second Language Acquisition | 2009 | cites 858
+[A_tavakoli] Complexity, Accuracy, and Fluency in Second Language Acquisition | 2009 | cites 858
+[A_tavakoli] Second language fluency: Speaking style or proficiency? Correcting measures of second lang | 2013 | cites 229
+[A_tavakoli] The multidimensionality of second language oral fluency: Interfacing cognitive fluency and | 2022 | cites 80
+[B_munro_derwing] The Effect of Speaker Proficiency on Intelligibility, Comprehensibility, and Accentedness  | 2021 | cites 54
+[B_munro_derwing] Foreign Accent, Comprehensibility, and Intelligibility in the Speech of Second Language Le | 1999 | cites 431
+[B_munro_derwing] Foreign accent, comprehensibility and intelligibility, redux | 2020 | cites 81
+[B_pron_meta] The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis | 2014 | cites 431
+[B_pron_meta] The effectiveness of automatic speech recognition in ESL/EFL pronunciation: A meta-analysi | 2023 | cites 90
+[B_pron_meta] The effectiveness of pronunciation instruction | 2023 | cites 0
+[C_hvpt] High variability phonetic training (HVPT): A meta-analysis of L2 perceptual training studi | 2025 | cites 24
+[C_hvpt] A Web-Based High Variability Phonetic Training Application for French Vowels | 2022 | cites 3
+[C_hvpt] Phonetic Training and Talker Variability in the Perception of Spanish Stop Consonants | 2025 | cites 0
+[C_shadowing] The Effect of Shadowing Technique to College Students' Listening and Speaking Skill | 2022 | cites 0
+[C_shadowing] USAGE OF SHADOWING METHOD IN ENHANCING LISTENING AND PRONUNCIATION | 2024 | cites 0
+[C_shadowing] The use of the Shadowing technique for developing listening and speaking skills in EFL stu | 2026 | cites 0
+[D_negotiation] Classroom Interaction, Comprehension, and the Acquisition of L2 Word Meanings | 1994 | cites 434
+[D_negotiation] The Role of Negotiation of Meaning in L2 Interactions:An Analysis from the Perspective of  | 2014 | cites 10
+[D_negotiation] Interaction and instructed second language acquisition | 2018 | cites 374
+[D_corrective_fb] The effectiveness of corrective feedback: A meta-analysis | 2003 | cites 7
+[D_corrective_fb] The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis | 2014 | cites 431
+[D_corrective_fb] Oral corrective feedback | 2013 | cites 50
+[E_automatization] The automatization of verbal morphology in instructed second language acquisition | 2011 | cites 47
+[E_automatization] Automatization in second language acquisition: What does the coefficient of variation tell | 2009 | cites 128
+[E_automatization] Research timeline: Automatization in second language learning | 2025 | cites 7
+[E_fitts_posner] Reflections on athletes’ mindfulness skills development: Fitts and Posner’s (1967) three s | 2019 | cites 22
+[E_fitts_posner] Stages of motor learning | 2018 | cites 0
+[E_fitts_posner] Neuroanatomical Correlates of Motor Skill Learning: Inferences from Neuroimaging to Behavi | 2008 | cites 5
+[E_formulaic] Formulaic Language in Native and Second Language Speakers: Psycholinguistics, Corpus Lingu | 2008 | cites 655
+[E_formulaic] Formulaic language and speech prosody | 2018 | cites 16
+[E_formulaic] The Processing of Formulaic Language | 2012 | cites 287
+[F_vocab_coverage] Lexical threshold revisited: Lexical text coverage, learners’ vocabulary size and reading  | 2010 | cites 643
+[F_vocab_coverage] A reassessment of frequency and vocabulary size in L2 vocabulary teaching | 2012 | cites 504
+[F_vocab_coverage] Vocabulary in academic spoken English | 2021 | cites 7
+[F_lexical_retrieval] Linguistic competences of learners of Dutch as a second language at the B1 and B2 levels o | 2011 | cites 83
+[F_lexical_retrieval] Lexical Retrieval: An Aspect of Fluent Second–Language Production That Can Be Enhanced | 2002 | cites 105
+[F_lexical_retrieval] Second language fluency: Speaking style or proficiency? Correcting measures of second lang | 2013 | cites 229
+[G_anxiety] Language Anxiety: Differentiating Writing and Speaking Components | 1999 | cites 765
+[G_anxiety] Anxiety over EFL speaking and writing: A view from language classrooms | 2011 | cites 51
+[G_anxiety] The Sources of Foreign Language Speaking Anxiety of Iranian English Language Learners | 2017 | cites 98
+[H_asr_l2] Quantifying Bias in Automatic Speech Recognition | 2021 | cites 61
+[H_asr_l2] Automatic Speech Recognition for Non- Native Speakers | 2008 | cites 9
+[H_asr_l2] Evaluating Automatic Speech Recognition Performance on Non-Native Accents of English | 2026 | cites 0
+[I_retrieval_practice] The multidimensionality of second language oral fluency: Interfacing cognitive fluency and | 2022 | cites 80
+[I_retrieval_practice] Complexity, Accuracy, and Fluency in Second Language Acquisition | 2009 | cites 858
+[I_retrieval_practice] The effects of distributed practice on second language fluency development | 2024 | cites 15
+[J_speech_rate] Second language speech comprehensibility and acceptability in academic settings: Listener  | 2023 | cites 6
+[J_speech_rate] Lexical correlates of comprehensibility versus accentedness in second language speech | 2015 | cites 40
+[J_speech_rate] LINGUISTIC DIMENSIONS OF COMPREHENSIBILITY AND PERCEIVED FLUENCY: AN INVESTIGATION OF COMP | 2019 | cites 120
+saved D:\11.project\iwen-dsh\doubao-list\ActivityWatch\selfQuestion\AI练口语阶梯-调研\原始数据\学术\openalex_raw.json tags 18

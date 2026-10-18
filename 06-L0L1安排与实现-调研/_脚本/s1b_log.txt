@@ -1,0 +1,176 @@
+[FAIL] A1_reread_meta: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+[OK] A2_taskrep_l2: 10 (total 2483)
+[FAIL] A3_432: <urlopen error _ssl.c:975: The handshake operation timed out>
+[OK] A4_rep_pron: 10 (total 2717)
+[OK] B1_pron_dose: 10 (total 2307)
+[OK] B2_asr_fb: 10 (total 1177)
+[OK] B3_hvpt_dose: 10 (total 153)
+[FAIL] B4_capt_meta: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+[OK] C1_comprehensibility: 10 (total 903)
+[FAIL] C2_intelligibility: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+[OK] C3_wer: 10 (total 1064)
+[OK] C4_selfassess: 10 (total 14672)
+[OK] C5_diagnostic: 10 (total 3806)
+[OK] D1_topic_familiar: 10 (total 114)
+[OK] D2_task_type: 10 (total 3637)
+[OK] D3_readaloud: 10 (total 3314)
+[OK] D4_shadowing: 10 (total 12734)
+[OK] E1_percept_prod: 10 (total 416)
+[FAIL] E3_accent: HTTP Error 429: Too Many Requests
+[FAIL] F1_repeat_fixed: HTTP Error 429: Too Many Requests
+saved -> D:\11.project\iwen-codex\codex-list\OralTracker\06-L0L1安排与实现-调研\原始数据\学术\openalex_filtered.json
+
+
+===== 标题速览 =====
+
+### A1_reread_meta  [None]
+
+### A2_taskrep_l2  [2483]
+  1994 [1012引] Word frequency effects in speech production: Retrieval of syntactic information and of phonologi
+  2001 [878引] Psycholinguistic Markers for Specific Language Impairment (SLI)
+  2001 [573引] Separate neural subsystems within `Wernicke's area'
+  2010 [492引] The role of inhibition in task switching: A review
+  2010 [463引] The Ventral and Inferolateral Aspects of the Anterior Temporal Lobe Are Crucial in Semantic Memo
+  1996 [461引] Hearing and saying
+  2009 [350引] Rehabilitation of arm function after stroke. Literature review
+  2010 [334引] The effects of simultaneous use of careful online planning and task repetition on accuracy, comp
+
+### A3_432  [None]
+
+### A4_rep_pron  [2717]
+  1994 [1012引] Word frequency effects in speech production: Retrieval of syntactic information and of phonologi
+  1998 [679引] Negotiation of Form, Recasts, and Explicit Correction in Relation to Error Types and Learner Rep
+  2008 [517引] Stored Word Sequences in Language Learning
+  2002 [354引] An endogenous distributed model of ordering in serial recall
+  1995 [331引] Abstractionist versus episodic theories of repetition priming and word identification
+  2010 [275引] Deliberate Learning and Vocabulary Acquisition in a Second Language
+  1985 [270引] Relations among regular and irregular morphologically related words in the lexicon as revealed b
+  2002 [229引] ESL learners' perceptions of their pronunciation needs and strategies
+
+### B1_pron_dose  [2307]
+  2001 [1000引] Factors affecting degree of foreign accent in an L2: a review
+  1998 [651引] Evidence in Favor of a Broad Framework for Pronunciation Instruction
+  2014 [431引] The Effectiveness of L2 Pronunciation Instruction: A Narrative Review
+  2014 [431引] The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis
+  2012 [293引] Survey of the Teaching of Pronunciation in Adult ESL Programs in Canada, 2010
+  2019 [282引] Effects of Second Language Pronunciation Teaching Revisited: A Proposed Measurement Framework an
+  2002 [181引] Automatic pronunciation scoring for language instruction
+  2009 [180引] Podcasting: An Effective Tool for Honing Language Students’ Pronunciation?
+
+### B2_asr_fb  [1177]
+  2000 [1111引] Resisting Linguistic Imperialism in English Teaching
+  2012 [1037引] Technologies for foreign language learning: a review of technology types and their effectiveness
+  2018 [538引] Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voi
+  2010 [228引] Speech Recognition by Machine, A Review
+  2024 [209引] Automatic speech recognition using advanced deep learning approaches: A survey
+  2023 [205引] Artificial intelligence technologies and applications for language learning and teaching
+  2007 [191引] COMPUTER TECHNOLOGY IN TEACHING AND RESEARCHING PRONUNCIATION
+  2020 [174引] Web-based language learning and speaking anxiety
+
+### B3_hvpt_dose  [153]
+  2011 [284引] Learning a novel phonological contrast depends on interactions between individual differences an
+  2005 [277引] Phonetic training with acoustic cue manipulations: A comparison of methods for teaching English 
+  1963 [272引] Speech Characteristics of Patients with Parkinson’s Disease: I. Intensity, Pitch, and Duration
+  2012 [145引] Improving L2 Listeners’ Perception of English Vowels: A Computer‐Mediated Approach
+  2011 [113引] Auditory training for experienced and inexperienced second-language learners: Native French spea
+  2010 [104引] The effect of native vowel processing ability and frequency discrimination acuity on the phoneti
+  2017 [87引] High variability identification and discrimination training for Japanese speakers learning Engli
+  2018 [78引] High Variability Phonetic Training as a Bridge From Research to Practice
+
+### B4_capt_meta  [None]
+
+### C1_comprehensibility  [903]
+  1995 [1548引] Foreign Accent, Comprehensibility, and Intelligibility in the Speech of Second Language Learners
+  1998 [651引] Evidence in Favor of a Broad Framework for Pronunciation Instruction
+  1995 [629引] Processing Time, Accent, and Comprehensibility in the Perception of Native and Foreign-Accented 
+  1984 [522引] THE EFFECT OF FAMILIARITY ON THE COMPREHENSIBILITY OF NONNATIVE SPEECH
+  2006 [489引] THE MUTUAL INTELLIGIBILITY OF L2 SPEECH
+  2004 [387引] Second Language Fluency: Judgments on Different Tasks
+  2001 [361引] MODELING PERCEPTIONS OF THE ACCENTEDNESS AND COMPREHENSIBILITY OF L2 SPEECH The Role of Speaking
+  2010 [347引] Suprasegmental Measures of Accentedness and Judgments of Language Learner Proficiency in Oral En
+
+### C2_intelligibility  [None]
+
+### C3_wer  [1064]
+  1993 [1115引] Connectionist Speech Recognition: A Hybrid Approach
+  2020 [754引] Racial disparities in automated speech recognition
+  2013 [660引] Sequence-discriminative training of deep neural networks
+  2017 [351引] Exploring architectures, data and units for streaming end-to-end speech recognition with RNN-tra
+  2021 [259引] Layer-Wise Analysis of a Self-Supervised Speech Representation Model
+  1955 [227引] Selective Vocal Effects Of Delayed Auditory Feedback
+  2018 [155引] Automatic Speech Recognition Errors Detection and Correction: A Review
+  2004 [130引] Automatic Recognition of Spontaneous Speech for Access to Multilingual Oral History Archives
+
+### C4_selfassess  [14672]
+  2009 [3276引] Developing the theory of formative assessment
+  2020 [2504引] 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteo
+  2018 [2393引] Prevention and treatment of low back pain: evidence, challenges, and promising directions
+  2016 [2062引] The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facet
+  2020 [1995引] 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteo
+  2003 [1506引] The Functional Assessment of Chronic Illness Therapy (FACIT) Measurement System: properties, app
+  2016 [1065引] Psychosocial Care for People With Diabetes: A Position Statement of the American Diabetes Associ
+  2011 [973引] World Allergy Organization Guidelines for the Assessment and Management of Anaphylaxis
+
+### C5_diagnostic  [3806]
+  2018 [2991引] GLIM criteria for the diagnosis of malnutrition – A consensus report from the global clinical nu
+  2003 [1799引] Prodromal Assessment With the Structured Interview for Prodromal Syndromes and the Scale of Prod
+  2019 [1712引] GLIM criteria for the diagnosis of malnutrition – A consensus report from the global clinical nu
+  1998 [1712引] Evaluating patient-based outcome measures for use in clinical trials.
+  2016 [1489引] Official American Thoracic Society/Centers for Disease Control and Prevention/Infectious Disease
+  2011 [1459引] Anxiety Disorders in Children and Adolescents with Autistic Spectrum Disorders: A Meta-Analysis
+  2018 [1438引] GLIM Criteria for the Diagnosis of Malnutrition: A Consensus Report From the Global Clinical Nut
+  2009 [1365引] Early Exposure to Anesthesia and Learning Disabilities in a Population-based Birth Cohort
+
+### D1_topic_familiar  [114]
+  1984 [522引] THE EFFECT OF FAMILIARITY ON THE COMPREHENSIBILITY OF NONNATIVE SPEECH
+  2011 [80引] The effects of syntactic and lexical complexity on the comprehension of elementary science texts
+  2015 [68引] Bilingual advantage and language switch: What's the linkage?
+  2022 [43引] YouTube Videos as a Resource for Self-Regulated Pronunciation Practice in EFL Distance Learning 
+  2018 [38引] Initiating and delivering news of the day: Interactional competence as joint-development
+  2014 [37引] The Use of L1 as a Writing Strategy in L2 Writing Tasks
+  2011 [32引] The Effect of Text Familiarity on Iranian EFL Learners' Listening Comprehension
+  2025 [29引] Detecting Artificial Intelligence–Generated Versus Human-Written Medical Student Essays: Semiran
+
+### D2_task_type  [3637]
+  2020 [1163引] On Faithfulness and Factuality in Abstractive Summarization
+  1996 [1146引] The Influence of Planning and Task Type on Second Language Performance
+  2007 [1025引] Using Linguistic Cues for the Automatic Recognition of Personality in Conversation and Text
+  2001 [978引] Error feedback in L2 writing classes
+  2020 [948引] Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and 
+  2001 [878引] Psycholinguistic Markers for Specific Language Impairment (SLI)
+  1997 [722引] Task type and task processing conditions as influences on foreign language performance
+  2019 [688引] Domains of cognition and their assessment
+
+### D3_readaloud  [3314]
+  2000 [1287引] The Child Behavior Checklist and Related Forms for Assessing Behavioral/Emotional Problems and C
+  1986 [717引] The Comprehension Strategies of Second Language Readers
+  2002 [685引] Beginning Literacy with Language: Young Children Learning at Home and School
+  1999 [553引] Explicit and implicit processing of words and pseudowords by adult developmental dyslexics
+  2007 [455引] The effects of prior knowledge and text structure on comprehension processes during reading of s
+  1979 [449引] Phonological alexia: three dissociations.
+  2001 [446引] The effects of readers’ goals on inference generation and memory for texts
+  1998 [442引] Reading Abraham Lincoln: An Expert/Expert Study in the Interpretation of Historical Texts
+
+### D4_shadowing  [12734]
+  2002 [4569引] Legacies: the story of the immigrant second generation
+  2017 [3274引] Deep Learning‐Based Crack Damage Detection Using Convolutional Neural Networks
+  2020 [1921引] Digital Twin: Values, Challenges and Enablers From a Modeling Perspective
+  1976 [1418引] The tasselled cap - A graphic description of the spectral-temporal development of agricultural c
+  2009 [859引] EPS09 — A new generation of NLO and LO nuclear parton distribution functions
+  2012 [828引] Fiscal Policy in a Depressed Economy
+  2008 [711引] The impact of tax morale and institutional quality on the shadow economy
+  2007 [684引] Building Online Learning Communities: Effective Strategies for the Virtual Classroom
+
+### E1_percept_prod  [416]
+  2005 [530引] Lexical Information Drives Perceptual Learning of Distorted Speech: Evidence From the Comprehens
+  1999 [521引] Training American listeners to perceive Mandarin tones
+  1999 [470引] Training Japanese listeners to identify English /r/and /l/: Long-term retention of learning in p
+  2003 [368引] Acoustic and perceptual evaluation of Mandarin tone productions before and after perceptual trai
+  1968 [335引] Confusions Among Visually Perceived Consonants
+  2006 [331引] Phonological Abstraction in the Mental Lexicon
+  2002 [303引] Success and failure in teaching the [r]-[l] contrast to Japanese adults: Tests of a Hebbian mode
+  2011 [284引] Learning a novel phonological contrast depends on interactions between individual differences an
+
+### E3_accent  [None]
+
+### F1_repeat_fixed  [None]

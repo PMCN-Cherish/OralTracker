@@ -1,0 +1,1396 @@
+{
+ "A1_reread_meta": {
+  "core": "repeated reading",
+  "extra": "meta-analysis OR fluency",
+  "error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>",
+  "works": []
+ },
+ "A2_taskrep_l2": {
+  "core": "task repetition",
+  "extra": "second language speaking",
+  "count": 2483,
+  "works": [
+   {
+    "title": "Word frequency effects in speech production: Retrieval of syntactic information and of phonological form.",
+    "year": 1994,
+    "cited": 1012,
+    "doi": "https://doi.org/10.1037//0278-7393.20.4.824",
+    "type": "article",
+    "venue": "Journal of Experimental Psychology Learning Memory and Cognition",
+    "abstract": "In 7 experiments the authors investigated the locus of word frequency effects in speech production. Experiment 1 demonstrated a frequency effect in picture naming that was robust over repetitions. Experiments 2, 3, and 7 excluded contributions from object identification and initiation of articulation. Experiments 4 and 5 investigated whether the effect arises in accessing the syntactic word (lemma) by using a grammatical gender decision task. Although a frequency effect was found, it dissipated under repeated access to a word's gender. Experiment 6 tested whether the robust frequency effect arises in accessing the phonological form (lexeme) by having Ss translate words that produced homophones. Low-frequent homophones behaved like high-frequent controls, inheriting the accessing speed of their high-frequent homophone twins. Because homophones share the lexeme, not the lemma, this suggests a lexeme-level origin of the robust effect. The word frequency effect in speech production was discovered by Oldfield and Wingfield (1965). In a picture-naming task, they found that pictures with low-frequency (LF) names (such as syringe) took longer to name than pictures with high-frequency (HF) names (such as basket). Wingfield (1968)"
+   },
+   {
+    "title": "Psycholinguistic Markers for Specific Language Impairment (SLI)",
+    "year": 2001,
+    "cited": 878,
+    "doi": "https://doi.org/10.1111/1469-7610.00770",
+    "type": "article",
+    "venue": "Journal of Child Psychology and Psychiatry",
+    "abstract": "In this study 160 children, aged 11 years with a definite history of specific language impairment (SLI), completed four tasks that could be potential positive psycholinguistic markers for this impairment: a third person singular task, a past tense task, a nonword repetition task, and a sentence repetition task. This allowed examination of more than one type of marker simultaneously, facilitating both comparisons between markers and also evaluation of combinations of markers in relation to identifying SLI. The study also provided data regarding the markers in relation to nonverbal IQ, made use of new normative data on all tasks, and examined marker accuracy in relation to current language status. The results show that markers vary in accuracy, with sentence repetition (a previously unused marker) proving to be the most useful. This psycholinguistic marker shows high levels of sensitivity (90%), specificity (85%), and overall accuracy (88%), as well as being able to identify the majority of children whose current language status falls in the normal range despite a history of SLI."
+   },
+   {
+    "title": "Separate neural subsystems within `Wernicke's area'",
+    "year": 2001,
+    "cited": 573,
+    "doi": "https://doi.org/10.1093/brain/124.1.83",
+    "type": "article",
+    "venue": "Brain",
+    "abstract": "Over time, both the functional and anatomical boundaries of 'Wernicke's area' have become so broad as to be meaningless. We have re-analysed four functional neuroimaging (PET) studies, three previously published and one unpublished, to identify anatomically separable, functional subsystems in the left superior temporal cortex posterior to primary auditory cortex. From the results we identified a posterior stream of auditory processing. One part, directed along the supratemporal cortical plane, responded to both non-speech and speech sounds, including the sound of the speaker's own voice. Activity in its most posterior and medial part, at the junction with the inferior parietal lobe, was linked to speech production rather than perception. The second, more lateral and ventral part lay in the posterior left superior temporal sulcus, a region that responded to an external source of speech. In addition, this region was activated by the recall of lists of words during verbal fluency tasks. The results are compatible with an hypothesis that the posterior superior temporal cortex is specialized for processes involved in the mimicry of sounds, including repetition, the specific role of the posterior left superior temporal sulcus being to transiently represent phonetic sequences, whether heard or internally generated and rehearsed. These processes are central to the acquisition of long- "
+   },
+   {
+    "title": "The role of inhibition in task switching: A review",
+    "year": 2010,
+    "cited": 492,
+    "doi": "https://doi.org/10.3758/pbr.17.1.1",
+    "type": "article",
+    "venue": "Psychonomic Bulletin & Review",
+    "abstract": ""
+   },
+   {
+    "title": "The Ventral and Inferolateral Aspects of the Anterior Temporal Lobe Are Crucial in Semantic Memory: Evidence from a Novel Direct Comparison of Distortion-Corrected fMRI, rTMS, and Semantic Dementia",
+    "year": 2010,
+    "cited": 463,
+    "doi": "https://doi.org/10.1093/cercor/bhq019",
+    "type": "article",
+    "venue": "Cerebral Cortex",
+    "abstract": "Although there is an emerging consensus that the anterior temporal lobes (ATLs) are involved in semantic memory, it is currently unclear which specific parts of this region are implicated in semantic representation. Answers to this question are difficult to glean from the existing literature for 3 reasons: 1) lesions of relevant patient groups tend to encompass the whole ATL region; 2) while local effects of repetitive transcranial magnetic stimulation (rTMS) are spatially more specific, only the lateral aspects of the ATL are available to stimulation; and 3) until recently, functional magnetic resonance imaging (fMRI) studies were hindered by technical limitations such as signal distortion and dropout due to magnetic inhomogeneities and also, in some cases, by methodological factors, including a restricted field of view and the choice of baseline contrast for subtraction analysis. By utilizing the same semantic task across semantic dementia, rTMS, and distortion-corrected fMRI in normal participants, we directly compared the results across the 3 methods for the first time. The findings were highly convergent and indicated that crucial regions within the ATL for semantic representation include the anterior inferior temporal gyrus, anterior fusiform gyrus, and the anterior superior temporal sulcus."
+   },
+   {
+    "title": "Hearing and saying",
+    "year": 1996,
+    "cited": 461,
+    "doi": "https://doi.org/10.1093/brain/119.3.919",
+    "type": "article",
+    "venue": "Brain",
+    "abstract": "The neural systems involved in hearing and repeating single words were investigated in a series of experiments using PET. Neuropsychological and psycholinguistic studies implicate the involvement of posterior and anterior left perisylvian regions (Wernicke's and Broca's areas). Although previous functional neuroimaging studies have consistently shown activation of Wernicke's area, there has been only variable implication of Broca's area. This study demonstrates that Broca's area is involved in both auditory word perception and repetition but activation is dependent on task (greater during repetition than hearing) and stimulus presentation (greater when hearing words at a slow rate). The peak of frontal activation in response to hearing words is anterior to that associated with repeating words; the former is probably located in Brodmann's area 45, the latter in Brodmann's area 44 and the adjacent precentral sulcus. As Broca's area activation is more subtle and complex than that in Wernicke's area during these tasks, the likelihood of observing it is influenced by both the study design and the image analysis technique employed. As a secondary outcome from the study, the response of bilateral auditory association cortex to 'own voice' during repetition was shown to be the same as when listening to \"other voice' from a prerecorded tape."
+   },
+   {
+    "title": "Rehabilitation of arm function after stroke. Literature review",
+    "year": 2009,
+    "cited": 350,
+    "doi": "https://doi.org/10.1016/j.rehab.2008.10.003",
+    "type": "article",
+    "venue": "Annals of Physical and Rehabilitation Medicine",
+    "abstract": ""
+   },
+   {
+    "title": "The effects of simultaneous use of careful online planning and task repetition on accuracy, complexity, and fluency in EFL learners’ oral production",
+    "year": 2010,
+    "cited": 334,
+    "doi": "https://doi.org/10.1177/1362168810383329",
+    "type": "article",
+    "venue": "Language Teaching Research",
+    "abstract": "This article reports on a study that was primarily aimed at investigating the effects of simultaneous use of careful online planning and task repetition on accuracy, complexity, and fluency in the oral production of learners of English as a foreign language (EFL). The effects of four planning and task repetition conditions (i.e. careful online planning without task repetition, pressured online planning with task repetition, careful online planning with task repetition, and pressured online planning without task repetition) on learners’ accuracy, complexity, and fluency in producing English language were investigated. Iranian intermediate-level EFL learners ( n = 60) were randomly selected and assigned to the four task conditions. The results obtained from one-way ANOVAs revealed that the opportunity to engage simultaneously in careful online planning and task repetition enhances accuracy, complexity, and fluency significantly. The obtained results also have some implications for teachers and practitioners in EFL context."
+   },
+   {
+    "title": "Processing Perspectives on Task Performance",
+    "year": 2014,
+    "cited": 312,
+    "doi": "https://doi.org/10.1075/tblt.5",
+    "type": "book",
+    "venue": "Task-based language teaching",
+    "abstract": "Understanding how second language task-based performance can be raised is vital for progress with task-based approaches to instruction. The chapters in this volume all attempt to advance this understanding, and do so within a viewpoint which assumes limited attentional capacities and accounts for second language speaking based on Levelt's model of first language speaking. Six empirical chapters present original studies. They explore the topics of task planning, familiarity of information in a task, task repetition, task characteristics, and the effects of using post-task transcription. The studies interweave with and build upon each other, reflecting their conjoint focus on how second language learning memory and attention limitations shape their performance in using the target language. In the concluding chapter the accumulated findings across these studies are discussed in terms of the nature of preparation for a task, the role of task structure, the respective claims of the Tradeoff and Cognition Hypotheses, the role of selective attention, and the implications of the studies for pedagogy. The book is a central reference for students in psycholinguistics, second language acquisition, and task-based language teaching."
+   },
+   {
+    "title": "Amodal semantic representations depend on both anterior temporal lobes: Evidence from repetitive transcranial magnetic stimulation",
+    "year": 2009,
+    "cited": 297,
+    "doi": "https://doi.org/10.1016/j.neuropsychologia.2009.12.036",
+    "type": "article",
+    "venue": "Neuropsychologia",
+    "abstract": ""
+   }
+  ]
+ },
+ "A3_432": {
+  "core": "4/3/2 technique",
+  "extra": "fluency",
+  "error": "<urlopen error _ssl.c:975: The handshake operation timed out>",
+  "works": []
+ },
+ "A4_rep_pron": {
+  "core": "repetition",
+  "extra": "pronunciation second language",
+  "count": 2717,
+  "works": [
+   {
+    "title": "Word frequency effects in speech production: Retrieval of syntactic information and of phonological form.",
+    "year": 1994,
+    "cited": 1012,
+    "doi": "https://doi.org/10.1037//0278-7393.20.4.824",
+    "type": "article",
+    "venue": "Journal of Experimental Psychology Learning Memory and Cognition",
+    "abstract": "In 7 experiments the authors investigated the locus of word frequency effects in speech production. Experiment 1 demonstrated a frequency effect in picture naming that was robust over repetitions. Experiments 2, 3, and 7 excluded contributions from object identification and initiation of articulation. Experiments 4 and 5 investigated whether the effect arises in accessing the syntactic word (lemma) by using a grammatical gender decision task. Although a frequency effect was found, it dissipated under repeated access to a word's gender. Experiment 6 tested whether the robust frequency effect arises in accessing the phonological form (lexeme) by having Ss translate words that produced homophones. Low-frequent homophones behaved like high-frequent controls, inheriting the accessing speed of their high-frequent homophone twins. Because homophones share the lexeme, not the lemma, this suggests a lexeme-level origin of the robust effect. The word frequency effect in speech production was discovered by Oldfield and Wingfield (1965). In a picture-naming task, they found that pictures with low-frequency (LF) names (such as syringe) took longer to name than pictures with high-frequency (HF) names (such as basket). Wingfield (1968)"
+   },
+   {
+    "title": "Negotiation of Form, Recasts, and Explicit Correction in Relation to Error Types and Learner Repair in Immersion Classrooms",
+    "year": 1998,
+    "cited": 679,
+    "doi": "https://doi.org/10.1111/1467-9922.00039",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "This article presents a study of the relationships among error types, feedback types, and immediate learner repair in 4 French immersion classrooms at the elementary level. The database is drawn from transcripts of audio‐recordings of 13 French language arts lessons and 14 subject‐matter lessons totaling 18.3 hours and including 921 error sequences. Wecoded the 921 learner errors initiating each sequence as grammatical, lexical, or phonological, or as unsolicited uses of L1 (English) and corrective feedback moves as negotiation of form (i.e., elicitation, metalinguistic clues, clarification requests, or repetition of error), recasts, or explicit correction. Findings indicate that lexical errors favoured the negotiation of form; grammatical and phonological errors invited recasts, but with differential effects in terms of learner repair. Overall, the negotiation of form proved more effective at leading to immediate repair than did recasts or explicit correction, particularly for lexical and grammatical errors, but not for phonological errors. Phonological repairs resulted primarily from recasts."
+   },
+   {
+    "title": "Stored Word Sequences in Language Learning",
+    "year": 2008,
+    "cited": 517,
+    "doi": "https://doi.org/10.1111/j.1467-9280.2008.02075.x",
+    "type": "article",
+    "venue": "Psychological Science",
+    "abstract": "Recent accounts of the development of grammar propose that children remember utterances they hear and draw generalizations over these stored exemplars. This study tested these accounts' assumption that children store utterances as wholes by testing memory for familiar sequences of words. Using a newly available, dense corpus of child-directed speech, we identified frequently occurring chunks in the input (e.g., sit in your chair) and matched them to infrequent sequences (e.g., sit in your truck). We tested young children's ability to produce these sequences in a sentence-repetition test. Three-year-olds (n= 21) and 2-year-olds (n= 17) were significantly more likely to repeat frequent sequences correctly than to repeat infrequent sequences correctly. Moreover, the 3-year-olds were significantly faster to repeat the first three words of an item if they formed part of a chunk (e.g., they were quicker to say sit in your when the following word was chair than when it was truck). We discuss the implications of these results for theories of language development and processing."
+   },
+   {
+    "title": "An endogenous distributed model of ordering in serial recall",
+    "year": 2002,
+    "cited": 354,
+    "doi": "https://doi.org/10.3758/bf03196257",
+    "type": "article",
+    "venue": "Psychonomic Bulletin & Review",
+    "abstract": ""
+   },
+   {
+    "title": "Abstractionist versus episodic theories of repetition priming and word identification",
+    "year": 1995,
+    "cited": 331,
+    "doi": "https://doi.org/10.3758/bf03210972",
+    "type": "conference-abstract",
+    "venue": "Psychonomic Bulletin & Review",
+    "abstract": ""
+   },
+   {
+    "title": "Deliberate Learning and Vocabulary Acquisition in a Second Language",
+    "year": 2010,
+    "cited": 275,
+    "doi": "https://doi.org/10.1111/j.1467-9922.2010.00613.x",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "This study investigates outcomes of deliberate learning on vocabulary acquisition in a second language (L2). Acquisition of 48 pseudowords was measured using the lexical decision task with visually presented stimuli. The experiments drew on form priming, masked repetition priming, and automatic semantic priming procedures. Data analyses revealed a prime lexicality effect (Experiment 1), repetition priming effect (Experiment 2), and semantic priming effect (Experiment 3) for the deliberately learned pseudowords. The outcomes of deliberate learning were further examined using a coefficient of variability (CV RT ) calculated for the participants’ response latencies in Experiments 2 and 3. The results showed that the learned pseudowords were processed with a higher degree of automaticity than nonwords and low‐frequency L2 words. Taken together, the findings provide evidence that deliberate learning triggered the acquisition of representational and functional aspects of vocabulary knowledge."
+   },
+   {
+    "title": "Relations among regular and irregular morphologically related words in the lexicon as revealed by repetition priming",
+    "year": 1985,
+    "cited": 270,
+    "doi": "https://doi.org/10.3758/bf03197687",
+    "type": "article",
+    "venue": "Memory & Cognition",
+    "abstract": ""
+   },
+   {
+    "title": "ESL learners' perceptions of their pronunciation needs and strategies",
+    "year": 2002,
+    "cited": 229,
+    "doi": "https://doi.org/10.1016/s0346-251x(02)00012-x",
+    "type": "article",
+    "venue": "System",
+    "abstract": ""
+   },
+   {
+    "title": "Word repetition in amnesia: Electrophysiological measures of impaired and spared memory",
+    "year": 2000,
+    "cited": 213,
+    "doi": "https://doi.org/10.1093/brain/123.9.1948",
+    "type": "article",
+    "venue": "Brain",
+    "abstract": "Amnesic patients often show improved performance when stimuli are repeated, even in the absence of conscious memory for those stimuli. Although these performance changes are typically attributed to perceptual or motor systems, in some cases they may be related to basic language processing. We examined two neurophysiological measures that vary with word repetition in 12 amnesic patients and 12 control subjects: (i) a late positive component of the event-related potential (ERP) linked to conscious memory and (ii) the N400 component that varies with language comprehension. In each trial, the subject heard a category name, then viewed a word, and then decided whether the word was semantically congruous or incongruous (e.g. 'yes' for 'baby animal: cub'; 'no' for 'water sport: kitchen'). Recall and recognition testing at the end of the experiment showed that control subjects had better memory for congruous than for incongruous words, as did the amnesic patients, who performed less well overall. In contrast, amnesic patients were unimpaired on the category decisions required in each trial and, like the control subjects, showed a large N400 for incongruous relative to congruous words. Similarly, when incongruous trials were repeated after 0-13 intervening trials, N400s were reduced in both groups. When congruous trials were repeated, a late positive repetition effect was observed, but "
+   },
+   {
+    "title": "Phonological recoding and lexical access",
+    "year": 1978,
+    "cited": 210,
+    "doi": "https://doi.org/10.3758/bf03197471",
+    "type": "article",
+    "venue": "Memory & Cognition",
+    "abstract": ""
+   }
+  ]
+ },
+ "B1_pron_dose": {
+  "core": "pronunciation instruction",
+  "extra": "duration OR weeks OR amount",
+  "count": 2307,
+  "works": [
+   {
+    "title": "Factors affecting degree of foreign accent in an L2: a review",
+    "year": 2001,
+    "cited": 1000,
+    "doi": "https://doi.org/10.1006/jpho.2001.0134",
+    "type": "article",
+    "venue": "Journal of Phonetics",
+    "abstract": ""
+   },
+   {
+    "title": "Evidence in Favor of a Broad Framework for Pronunciation Instruction",
+    "year": 1998,
+    "cited": 651,
+    "doi": "https://doi.org/10.1111/0023-8333.00047",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "We had native English‐speaking (NS) listeners evaluate the effects of 3types of instruction (segmental accuracy; general speaking habits and prosodic factors; and nospecific pronunciation instruction) on the speech of 3 groups of English as a second language(ESL) learners. We recorded their sentences and extemporaneously produced narratives at thebeginning and end of a 12‐week course of instruction. In a blind rating task, 48 native Englishlisteners judged randomized sentences for accentedness and comprehensibility. Six experiencedESL teachers evaluated narratives for accent, comprehensibility, and fluency. Although bothgroups instructed in pronunciation showed significant improvement in comprehensibility andaccentedness on the sentences, only the global group showed improvement in comprehensibilityand fluency in the narratives. We argue that the focus of instruction and the attentional demandson speakers and listeners account for these findings."
+   },
+   {
+    "title": "The Effectiveness of L2 Pronunciation Instruction: A Narrative Review",
+    "year": 2014,
+    "cited": 431,
+    "doi": "https://doi.org/10.1093/applin/amu076",
+    "type": "review",
+    "venue": "Applied Linguistics",
+    "abstract": "Research on the efficacy of second language (L2) pronunciation instruction has produced mixed results, despite reports of significant improvement in many studies. Possible explanations for divergent outcomes include learner individual differences, goals and foci of instruction, type and duration of instructional input, and assessment procedures. After identifying key concepts, we survey 75 L2 pronunciation studies, particularly their methods and results. Despite a move towards emphasizing speech intelligibility and comprehensibility, most research surveyed promoted native-like pronunciation as the target. Although most studies entailed classroom instruction, many featured Computer Assisted Pronunciation Teaching (CAPT). Segmentals were studied more often than suprasegmentals. The amount of instruction required to effect change was related to researchers’ goals; interventions focusing on a single feature were generally shorter than those addressing more issues. Reading-aloud tasks were the most common form of assessment; very few studies measured spontaneous speech. The attribution of improvement as a result of instruction was compromised in some instances by lack of a control group. We summarize our findings, highlight limitations of current research, and offer suggestions for future directions."
+   },
+   {
+    "title": "The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis",
+    "year": 2014,
+    "cited": 431,
+    "doi": "https://doi.org/10.1093/applin/amu040",
+    "type": "review",
+    "venue": "Applied Linguistics",
+    "abstract": "The goal of this study was to determine the overall effects of pronunciation instruction (PI) as well as the sources and extent of variance in observed effects. Toward this end, a comprehensive search for primary studies was conducted, yielding 86 unique reports testing the effects of PI. Each study was then coded on substantive and methodological features as well as study outcomes (Cohen’s d ). Aggregated results showed a generally large effect for PI ( d = 0.89 and 0.80 for N -weighted within- and between-group contrasts, respectively). In addition, moderator analyses revealed larger effects for (i) longer interventions, (ii) treatments providing feedback, and (iii) more controlled outcome measures. We interpret these and other results with respect to their practical and pedagogical relevance. We also discuss the findings in relation to instructed second language acquisition research generally and in comparison with other reviews of PI (e.g. Saito 2012). Our conclusion points out areas of PI research in need of further empirical attention and methodological refinement."
+   },
+   {
+    "title": "Survey of the Teaching of Pronunciation in Adult ESL Programs in Canada, 2010",
+    "year": 2012,
+    "cited": 293,
+    "doi": "https://doi.org/10.18806/tesl.v29i1.1086",
+    "type": "article",
+    "venue": "TESL Canada Journal",
+    "abstract": "This follow-up study reexamines the state of the teaching of pronunciation in ESL classes across Canada. The purpose of the survey was twofold: to gain a snapshot of current practices and to compare this with the picture of 10 years ago. We based the current work on Breitkreutz, Derwing, and Rossiter’s (2001) survey asking teachers about resources, approaches, and beliefs about teaching pronunciation. We also asked for background information about the instructors’ formal education and teaching experience. For the most part, instruction in pronunciation in Canada has not changed substantially in the last decade. More training opportunities are available, although these are still not enough according to many of our respondents. The number of pronunciation courses offered in English-as-asecond-language (ESL) programs has also increased. Teachers’ beliefs about pronunciation instruction remained largely the same, with a similar focus on suprasegmentals and segmentals. However, we did find a slight difference in how teachers approached these two aspects of pronunciation. Ten years ago, teachers reported emphasizing both aspects in class, whereas today there seemed to be a slightly greater focus on segmentals. Finally, we offer several recommendations for TESL programs, ESL programs, and ESL instructors."
+   },
+   {
+    "title": "Effects of Second Language Pronunciation Teaching Revisited: A Proposed Measurement Framework and Meta‐Analysis",
+    "year": 2019,
+    "cited": 282,
+    "doi": "https://doi.org/10.1111/lang.12345",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "We propose a new framework for conceptualizing measures of instructed second language (L2) pronunciation performance according to three sets of parameters: (a) the constructs (focused on global vs. specific aspects of pronunciation), (b) the scoring method (human raters vs. acoustic analyses), and (c) the type of knowledge elicited (controlled vs. spontaneous). Adopting this model (Framework for L2 Pronunciation Measurement) as a synthetic tool, we coded the instruments found in 77 studies of L2 pronunciation teaching published between 1982 and 2017. We calculated the frequency of each measurement type and reexamined the interaction of instructional effectiveness and measurement within the sample. According to the results, instruction is most effective when it targets learners’ monitored production of specific segmental or suprasegmental features. The efficacy of instruction remains relatively unclear when gains are measured globally via subjective, human judgments, especially at a spontaneous level. Open Practices This article has been awarded an Open Materials badge. All materials are publicly accessible via the IRIS database at https://www.iris-database.org . Learn more about the Open Practices badges from the Center for Open Science: https://osf.io/tvyxz/wiki ."
+   },
+   {
+    "title": "Automatic pronunciation scoring for language instruction",
+    "year": 2002,
+    "cited": 181,
+    "doi": "https://doi.org/10.1109/icassp.1997.596227",
+    "type": "conference-paper",
+    "venue": "IEEE International Conference on Acoustics Speech and Signal Processing",
+    "abstract": "This work is part of an effort aimed at developing computer-based systems for language instruction; we address the task of grading the pronunciation quality of the speech of a student of a foreign language. The automatic grading system uses SRI's Decipher/sup TM/ continuous speech recognition system to generate phonetic segmentations. Based on these segmentations and probabilistic models we produce pronunciation scores for individual or groups of sentences. Scores obtained from expert human listeners are used as the reference to evaluate the different machine scores and to provide targets when training some of the algorithms. In previous work we had found that duration-based scores outperformed HMM log-likelihood-based scores. In this paper we show that we can significantly improve HMM-based scores by using average phone segment posterior probabilities. Correlation between machine and human scores went up from r=0.50 with likelihood-based scores to r=0.88 with posterior-based scores. The new measures also outperformed duration-based scores in their ability to produce reliable scores from only a few sentences."
+   },
+   {
+    "title": "Podcasting: An Effective Tool for Honing Language Students’ Pronunciation?",
+    "year": 2009,
+    "cited": 180,
+    "doi": "https://doi.org/10.64152/10125/44192",
+    "type": "article",
+    "venue": "Language learning & technology",
+    "abstract": "This paper reports on an investigation of podcasting as a tool for honing pronunciation skills in intermediate language learning.We examined the effects of using podcasts to improve pronunciation in second language learning and how students' attitudes changed toward pronunciation over the semester.A total of 22 students in intermediate German and French courses made five scripted pronunciation recordings throughout the semester.After the pronunciation recordings, students produced three extemporaneous podcasts.Students also completed a pre-and post-survey based on Elliott's (1995) Pronunciation Attitude Inventory to assess their perspectives regarding pronunciation.Students' pronunciation, extemporaneous recordings, and surveys were analyzed to explore changes over the semester.Data analysis revealed that students' pronunciation did not significantly improve in regard to accentedness or comprehensibility, perhaps because the16-week long treatment was too short to foster significant improvement and there was no in-class pronunciation practice.The podcast project, however, was perceived positively by students, and they appreciated the feedback given for each scripted recording and enjoyed opportunities for creativity during extemporaneous podcasts.Future studies might seek to delineate more specific guidelines or examine how teacher involvement might be adapted to the use of podc"
+   },
+   {
+    "title": "The Short and Long-Term Effects of Pronunciation Instruction",
+    "year": 2026,
+    "cited": 155,
+    "doi": "https://doi.org/10.4324/9781003763840-5",
+    "type": "book-chapter",
+    "venue": "Routledge eBooks",
+    "abstract": "There has been surprisingly little exploration of the effectiveness of pronunciation teaching by researchers. This classroom-based study makes an initial step towards addressing this gap by determining the immediate effect of instruction on specific forms in second language (L2) pronunciation and the extent to which gains were retained over time and integrated into phonological competence. The subjects were New Zealand (NZ) immigrants, largely of Asian origin, attending a high-intermediate level English class. The study focused on epenthesis (the addition of an extra sound, usually a schwa, after a consonant) and absence (the inappropriate dropping of a consonant sound). The instruction was explicit and involved a series of short input and practice sessions interspersed amongst the regular teaching over a period of two weeks. Dramatic gains were achieved: the average error rate dropped from 19.9% to 5.5% in the immediate post-test, and rose slightly to 7.5% in the delayed post-test. A more general test conducted at the same time as the delayed post-test showed the error rate had halved, indicating that these gains had been largely integrated into learners’ phonological competence. By way of comparison, similar groups of students, who did not receive the instruction, achieved no gains in this area of pronunciation during the course of one semester. This suggests that appropriate"
+   },
+   {
+    "title": "How Well do General-Skills ESL Textbooks Address Pronunciation?",
+    "year": 2013,
+    "cited": 149,
+    "doi": "https://doi.org/10.18806/tesl.v30i1.1124",
+    "type": "article",
+    "venue": "TESL Canada Journal",
+    "abstract": "Many instructors are reluctant to teach pronunciation in adult ESL classrooms, often because of lack of formal training. However, significant numbers of ESL students want pronunciation instruction. Although stand-alone pronunciation courses for second-language (L2) learners exist, many students cannot gain access to them. One approach to meeting the needs of both instructors and students is for general-skills L2 textbooks to include pronunciation activities. We examined 12 ESL general-skills textbook series (48 texts in total) and six accompanying teachers’ manuals to determine to what extent these popular books include pro- nunciation activities and how consistent the texts are across individual series. We also recorded which aspects of L2 pronunciation are the focus of the lessons. Task types were examined in a subset of five series. We found striking variability in the concentration of pronunciation activities both across and within series. Similarly, whereas some textbooks used several task types, others relied heavily on a limited range. Furthermore, some texts offered little in terms of explicit ex- planations. In some instances teachers’ manuals provided instructors with guid- ance; others included little more than repeated admonitions to remind the students to monitor their L2 pronunciation. The implications for teachers of general ESL courses are discussed.Plusieurs en"
+   }
+  ]
+ },
+ "B2_asr_fb": {
+  "core": "automatic speech recognition",
+  "extra": "pronunciation feedback",
+  "count": 1177,
+  "works": [
+   {
+    "title": "Resisting Linguistic Imperialism in English Teaching",
+    "year": 2000,
+    "cited": 1111,
+    "doi": "https://doi.org/10.1016/s0346-251x(00)00005-1",
+    "type": "article",
+    "venue": "System",
+    "abstract": ""
+   },
+   {
+    "title": "Technologies for foreign language learning: a review of technology types and their effectiveness",
+    "year": 2012,
+    "cited": 1037,
+    "doi": "https://doi.org/10.1080/09588221.2012.700315",
+    "type": "article",
+    "venue": "Computer Assisted Language Learning",
+    "abstract": "This review summarizes evidence for the effectiveness of technology use in foreign language (FL) learning and teaching, with a focus on empirical studies that compare the use of newer technologies with more traditional methods or materials. The review of over 350 studies (including classroom-based technologies, individual study tools, network-based social computing, and mobile and portable devices) revealed that, in spite of an abundance of publications available on the topic of technology use in FL learning and teaching, evidence of efficacy is limited. However, strong support for the claim that technology made a measurable impact in FL learning came from studies on computer-assisted pronunciation training, in particular, automatic speech recognition (ASR). These studies demonstrated that ASR can facilitate the improvement of pronunciation and can provide feedback effectively. Additional studies provided strong support for the use of chat in FL learning. These studies showed that, with chat, both the amount of learners’ language production and its complexity significantly increased. The literature revealed moderate support for claims that technology enhanced learners’ output and interaction, affect and motivation, feedback, and metalinguistic knowledge."
+   },
+   {
+    "title": "Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces",
+    "year": 2018,
+    "cited": 538,
+    "doi": "https://doi.org/10.48550/arxiv.1805.10190",
+    "type": "preprint",
+    "venue": "arXiv (Cornell University)",
+    "abstract": "This paper presents the machine learning architecture of the Snips Voice Platform, a software solution to perform Spoken Language Understanding on microprocessors typical of IoT devices. The embedded inference is fast and accurate while enforcing privacy by design, as no personal user data is ever collected. Focusing on Automatic Speech Recognition and Natural Language Understanding, we detail our approach to training high-performance Machine Learning models that are small enough to run in real-time on small devices. Additionally, we describe a data generation procedure that provides sufficient, high-quality training data without compromising user privacy."
+   },
+   {
+    "title": "Speech Recognition by Machine, A Review",
+    "year": 2010,
+    "cited": 228,
+    "doi": "https://doi.org/10.48550/arxiv.1001.2267",
+    "type": "preprint",
+    "venue": "arXiv (Cornell University)",
+    "abstract": "This paper presents a brief survey on Automatic Speech Recognition and discusses the major themes and advances made in the past 60 years of research, so as to provide a technological perspective and an appreciation of the fundamental progress that has been accomplished in this important area of speech communication. After years of research and development the accuracy of automatic speech recognition remains one of the important research challenges (e.g., variations of the context, speakers, and environment).The design of Speech Recognition system requires careful attentions to the following issues: Definition of various types of speech classes, speech representation, feature extraction techniques, speech classifiers, database and performance evaluation. The problems that are existing in ASR and the various techniques to solve these problems constructed by various research workers have been presented in a chronological order. Hence authors hope that this work shall be a contribution in the area of speech recognition. The objective of this review paper is to summarize and compare some of the well known methods used in various stages of speech recognition system and identify research topic and applications which are at the forefront of this exciting and challenging field."
+   },
+   {
+    "title": "Automatic speech recognition using advanced deep learning approaches: A survey",
+    "year": 2024,
+    "cited": 209,
+    "doi": "https://doi.org/10.1016/j.inffus.2024.102422",
+    "type": "article",
+    "venue": "Information Fusion",
+    "abstract": ""
+   },
+   {
+    "title": "Artificial intelligence technologies and applications for language learning and teaching",
+    "year": 2023,
+    "cited": 205,
+    "doi": "https://doi.org/10.1515/jccall-2023-0015",
+    "type": "article",
+    "venue": "Journal of China Computer-Assisted Language Learning",
+    "abstract": "Abstract Artificial intelligence (AI) is changing many aspects of education and is gradually being introduced to language education. This article reviews the literature to examine main trends and common findings in relation to AI technologies and applications for second and foreign language learning and teaching. With special reference to computer-assisted language learning (CALL), the article explores natural language processing (NLP), data-driven learning (DDL), automated writing evaluation (AWE), computerized dynamic assessment (CDA), intelligent tutoring systems (ITSs), automatic speech recognition (ASR), and chatbots. It contributes to discussions on understanding and using AI-supported language learning and teaching. It suggests that AI will be continuously integrated into language education, and AI technologies and applications will have a profound impact on language learning and teaching. Language educators need to ensure that AI is effectively used to support language learning and teaching in AI-powered contexts. More rigorous research on AI-supported language learning and teaching is recommended to maximise second and foreign language learning and teaching with AI."
+   },
+   {
+    "title": "COMPUTER TECHNOLOGY IN TEACHING AND RESEARCHING PRONUNCIATION",
+    "year": 2007,
+    "cited": 191,
+    "doi": "https://doi.org/10.1017/s0267190508070098",
+    "type": "article",
+    "venue": "Annual Review of Applied Linguistics",
+    "abstract": "Pronunciation, long on the periphery of applied linguistics research and pedagogy, continues to grow in importance because of its central roles in speech recognition, speech perception, and speaker identity. Pronunciation-related issues such as comprehensibility, accent, and the mutual intelligibility of varieties of world Englishes are central to many questions in applied linguistics. This calls for a sophisticated understanding of how technological tools that have long been used to shed light on phonological categories can be applied to teaching. Research into computer-assisted pronunciation teaching (CAPT) suggests that both researchers and pronunciation teachers increasingly make use of technology to answer key questions, to ensure that claims are defensible, and to develop theories and practices that more closely match acoustic reality. This article reviews three key areas where computer technology and pronunciation intersect: (1) appropriate pedagogical goals and the measurement of improvement; (2) the ability of CAPT to give useful, automatic feedback; and (3) the use of technology in diagnosing pronunciation errors. This article concludes with recommendations for key technological competencies needed by any researcher or teacher who examines pronunciation-related issues."
+   },
+   {
+    "title": "Web-based language learning and speaking anxiety",
+    "year": 2020,
+    "cited": 174,
+    "doi": "https://doi.org/10.1080/09588221.2020.1770293",
+    "type": "article",
+    "venue": "Computer Assisted Language Learning",
+    "abstract": "Foreign Language Speaking Anxiety (FLSA) is known to negatively affect the performance of foreign language learners. Among the four language skills, speaking is the most anxiety-provoking skill. We investigated the presence of FLSA in Indonesian vocational high school students and we tested whether web-based language learning might help to reduce speaking anxiety, in particular when the facility in question is equipped with Automatic Speech Recognition (ASR). A mixed methods research was employed to investigate FLSA in 573 vocational high school students. A subset of them (n = 167) was selected to participate in two ASR-based web-experiments using www.iloveindonesia.my.id and NovoLearning. We additionally interviewed 11 of the students who participated in these web-experiments and five English teachers. The results showed that students indicated a moderate-to-serious level of FLSA, that they evaluated the learning websites positively, and believed that web-based language learning could alleviate their speaking anxiety. The interviews revealed that students felt less anxious when speaking in front of the ASR-based websites compared to speaking to peers or people. In order to evaluate the real effectiveness of ASR-based learning websites, future studies should investigate actual improvement of learners’ speaking skills over a longer period of time."
+   },
+   {
+    "title": "Automatic Speech Recognition: Systematic Literature Review",
+    "year": 2021,
+    "cited": 170,
+    "doi": "https://doi.org/10.1109/access.2021.3112535",
+    "type": "review",
+    "venue": "IEEE Access",
+    "abstract": "A huge amount of research has been done in the field of speech signal processing in recent years. In particular, there has been increasing interest in the automatic speech recognition (ASR) technology field. ASR began with simple systems that responded to a limited number of sounds and has evolved into sophisticated systems that respond fluently to natural language. This systematic review of automatic speech recognition is provided to help other researchers with the most significant topics published in the last six years. This research will also help in identifying recent major ASR challenges in real-world environments. In addition, it discusses current research gaps in ASR. This review covers articles available in five research databases that were completed according to the preferred reporting items for systematic reviews and meta-analyses (PRISMA) protocol. The search strategy yielded 45 articles related to the study’s scope for the period 2015–2020. The results presented in this review shed light on research trends in the area of ASR and also suggest new research directions."
+   },
+   {
+    "title": "Using automatic speech processing for foreign language pronunciation tutoring: Some issues and a prototype",
+    "year": 1999,
+    "cited": 163,
+    "doi": "https://doi.org/10.64152/10125/25043",
+    "type": "article",
+    "venue": "Language learning & technology",
+    "abstract": "In this article I will discuss the possible use of automatic speech recognition (ASR) for training students to improve their accents in a foreign language.Principles of good language training as well as the limits of the use of Automatic Speech Recognition (ASR) and how to deal with them will be discussed first.I will then use the example of the Carnegie Mellon FLUENCY system to show concretely how such a system may function.Prosody training as well as phonetics will be emphasized.Finally, I will underscore the importance of having a system that adapts to the user, again using the FLUENCY system as an example."
+   }
+  ]
+ },
+ "B3_hvpt_dose": {
+  "core": "high variability phonetic training",
+  "extra": "sessions OR duration OR dose",
+  "count": 153,
+  "works": [
+   {
+    "title": "Learning a novel phonological contrast depends on interactions between individual differences and training paradigm design",
+    "year": 2011,
+    "cited": 284,
+    "doi": "https://doi.org/10.1121/1.3593366",
+    "type": "article",
+    "venue": "The Journal of the Acoustical Society of America",
+    "abstract": "Studies evaluating phonological contrast learning typically investigate either the predictiveness of specific pretraining aptitude measures or the efficacy of different instructional paradigms. However, little research considers how these factors interact--whether different students learn better from different types of instruction--and what the psychological basis for any interaction might be. The present study demonstrates that successfully learning a foreign-language phonological contrast for pitch depends on an interaction between individual differences in perceptual abilities and the design of the training paradigm. Training from stimuli with high acoustic-phonetic variability is generally thought to improve learning; however, we found high-variability training enhanced learning only for individuals with strong perceptual abilities. Learners with weaker perceptual abilities were actually impaired by high-variability training relative to a low-variability condition. A second experiment assessing variations on the high-variability training design determined that the property of this learning environment most detrimental to perceptually weak learners is the amount of trial-by-trial variability. Learners' perceptual limitations can thus override the benefits of high-variability training where trial-by-trial variability in other irrelevant acoustic-phonetic features obfuscates a"
+   },
+   {
+    "title": "Phonetic training with acoustic cue manipulations: A comparison of methods for teaching English /r/-/l/ to Japanese adults",
+    "year": 2005,
+    "cited": 277,
+    "doi": "https://doi.org/10.1121/1.2062307",
+    "type": "article",
+    "venue": "The Journal of the Acoustical Society of America",
+    "abstract": "Recent work [Iverson et al. (2003) Cognition, 87, B47-57] has suggested that Japanese adults have difficulty learning English /r/ and /l/ because they are overly sensitive to acoustic cues that are not reliable for /r/-/l/ categorization (e.g., F2 frequency). This study investigated whether cue weightings are altered by auditory training, and compared the effectiveness of different training techniques. Separate groups of subjects received High Variability Phonetic Training (natural words from multiple talkers), and 3 techniques in which the natural recordings were altered via signal processing (All Enhancement, with F3 contrast maximized and closure duration lengthened; Perceptual Fading, with F3 enhancement reduced during training; and Secondary Cue Variability, with variation in F2 and durations increased during training). The results demonstrated that all of the training techniques improved /r/-/l/ identification by Japanese listeners, but there were no differences between the techniques. Training also altered the use of secondary acoustic cues; listeners became biased to identify stimuli as English /l/ when the cues made them similar to the Japanese /r/ category, and reduced their use of secondary acoustic cues for stimuli that were dissimilar to Japanese /r/. The results suggest that both category assimilation and perceptual interference affect English /r/ and /l/ acquisit"
+   },
+   {
+    "title": "Speech Characteristics of Patients with Parkinson’s Disease: I. Intensity, Pitch, and Duration",
+    "year": 1963,
+    "cited": 272,
+    "doi": "https://doi.org/10.1044/jshd.2803.221",
+    "type": "article",
+    "venue": "Journal of Speech and Hearing Disorders",
+    "abstract": "No AccessJournal of Speech and Hearing DisordersResearch Article1 Aug 1963Speech Characteristics of Patients with Parkinson's Disease: I. Intensity, Pitch, and Duration Gerald J. Canter Gerald J. Canter Google Scholar https://doi.org/10.1044/jshd.2803.221 SectionsAboutPDF ToolsAdd to favoritesDownload CitationTrack Citations ShareFacebookTwitterLinked In Additional Resources FiguresReferencesRelatedDetailsCited byJournal of Speech, Language, and Hearing Research65:4 (1402-1415)4 Apr 2022Longitudinal Effects of Parkinson's Disease on Speech Breathing During an Extemporaneous Connected Speech TaskMeghan Darling-White, Zeina Anspach and Jessica E. Huber Journal of Voice1 Jan 2021Acoustic Analysis of Intonation in Persons With Parkinson's Disease Receiving Transcranial Magnetic Stimulation and Intensive Voice TreatmentQiang Li, Kelly Millard, John Tetnowski, Shalini Narayana and Michael Cannito Journal of Neural Transmission128:5 (645-657)1 May 2021Evaluation of multi-feature auditory deviance detection in Parkinson's disease: a mismatch negativity studyEvelien De Groote, Annelies Bockstael, Dick Botteldooren, Patrick Santens and Miet De Letter Speech Communication126 (44-60)1 Feb 2021Acoustic differences in emotional speech of people with dysarthriaLubna Alhinti, Heidi Christensen and Stuart Cunningham Elliott D. Ross (2021) Disorders of vocal emotional expression and comprehensio"
+   },
+   {
+    "title": "Improving L2 Listeners’ Perception of English Vowels: A Computer‐Mediated Approach",
+    "year": 2012,
+    "cited": 145,
+    "doi": "https://doi.org/10.1111/j.1467-9922.2012.00724.x",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "A high variability phonetic training technique was employed to train 26 Mandarin speakers to better perceive ten English vowels. In eight short training sessions, learners identified 200 English vowel tokens, produced in a post bilabial stop context by 20 native speakers. Learners’ ability to identify English vowels significantly improved in the training context and in one novel phonetic context. Training did not transfer to a third phonetic context. A delayed posttest indicated that improvement was maintained for one month after training was completed, although in the absence of training, no further improvement was found. Learners’ scalar judgments regarding the certainty of their choices on identification tests indicated a significant increase in confidence after training."
+   },
+   {
+    "title": "Auditory training for experienced and inexperienced second-language learners: Native French speakers learning English vowels",
+    "year": 2011,
+    "cited": 113,
+    "doi": "https://doi.org/10.1017/s0142716411000300",
+    "type": "article",
+    "venue": "Applied Psycholinguistics",
+    "abstract": "ABSTRACT This study examined whether high-variability auditory training on natural speech can benefit experienced second-language English speakers who already are exposed to natural variability in their daily use of English. The subjects were native French speakers who had learned English in school; experienced listeners were tested in England and the less experienced listeners were tested in France. Both groups were given eight sessions of high-variability phonetic training for English vowels, and were given a battery of perception and production tests to evaluate their improvement. The results demonstrated that both groups learned to similar degrees, suggesting that training provides a type of learning that is distinct from that obtained in more naturalistic situations."
+   },
+   {
+    "title": "The effect of native vowel processing ability and frequency discrimination acuity on the phonetic training of English vowels for native speakers of Greek",
+    "year": 2010,
+    "cited": 104,
+    "doi": "https://doi.org/10.1121/1.3506351",
+    "type": "article",
+    "venue": "The Journal of the Acoustical Society of America",
+    "abstract": "The perception and production of nonnative phones in second language (L2) learners can be improved via auditory training, but L2 learning is often characterized by large differences in performance across individuals. This study examined whether success in learning L2 vowels, via five sessions of high-variability phonetic training, related to the learners' native (L1) vowel processing ability or their frequency discrimination acuity. A group of native speakers of Greek received training, while another completed the pre-/post-tests but without training. Pre-/post-tests assessed different aspects of their L2 and L1 vowel processing and frequency acuity. L2 and L1 vowel processing were assessed via: (a) Natural English (L2) vowel identification in quiet and in multi-talker babble, and natural Greek (L1) vowel identification in babble; (b) the categorization of synthetic English and Greek vowel continua; and (c) discrimination of the same continua. Frequency discrimination acuity was assessed for a nonspeech continuum. Frequency discrimination acuity was related to measures of both L1 and L2 vowel processing, a finding that favors an auditory processing over a speech-specific explanation for individual variability in L2 vowel learning. The most efficient frequency discriminators at pre-test were also the most accurate both in English vowel perception and production after training."
+   },
+   {
+    "title": "High variability identification and discrimination training for Japanese speakers learning English /r/–/l/",
+    "year": 2017,
+    "cited": 87,
+    "doi": "https://doi.org/10.1016/j.wocn.2017.11.002",
+    "type": "article",
+    "venue": "Journal of Phonetics",
+    "abstract": "Second-language (L2) learners can benefit from exposure to phonetically variable speech during computer-based training. Moreover, this training can be effective even for L2 learners who have extensive exposure to their L2 in daily life, suggesting that there is something specific about the training task that aids learning. The present study compared traditional identification training with discrimination training to evaluate whether discrimination training could be effective, and whether different types of focused attention (i.e., on categorization vs. perceptual differences) could combine to provide a greater increase in learning. Adult Japanese speakers were given 10 sessions of identification and discrimination training, with pre/mid/post tests of identification, auditory discrimination, category discrimination, and /r/–/l/ production. The results demonstrated that both identification and discrimination training increased accuracy of Japanese speakers’ perception and production of English /r/–/l/ in similar ways, but that there was little added benefit to using the two training methods in combination. It thus appears that identification and discrimination training have similar effects in second-language learners, as long as both training methods incorporate high variability."
+   },
+   {
+    "title": "High Variability Phonetic Training as a Bridge From Research to Practice",
+    "year": 2018,
+    "cited": 78,
+    "doi": "https://doi.org/10.5070/b5.35970",
+    "type": "article",
+    "venue": "The CATESOL journal.",
+    "abstract": "This review of high variability phonetic training (HVPT) research begins by situating HVPT in its historical context and as a methodology for studying second language (L2) pronunciation. Next we identify and discuss issues in HVPT that are of particular relevance to real-world L2 learning and teaching settings, including the generalizability of learning to new situations, in addition to variations in how HVPT is implemented that may promote optimal learning. Primarily, we focus on the relatively limited research that has explored the use of HVPT as a pedagogical tool. We conclude with recommendations for the future regarding the applicability of HVPT to L2 learning and teaching in the real world."
+   },
+   {
+    "title": "High or low? Comparing high and low-variability phonetic training in adult and child second language learners",
+    "year": 2017,
+    "cited": 60,
+    "doi": "https://doi.org/10.7717/peerj.3209",
+    "type": "article",
+    "venue": "PeerJ",
+    "abstract": "BACKGROUND: High talker variability (i.e., multiple voices in the input) has been found effective in training nonnative phonetic contrasts in adults. A small number of studies suggest that children also benefit from high-variability phonetic training with some evidence that they show greater learning (more plasticity) than adults given matched input, although results are mixed. However, no study has directly compared the effectiveness of high versus low talker variability in children. METHODS: = 41) were exposed to the English /i/-/ɪ/ contrast in 10 training sessions through a computerized word-learning game. Pre- and post-training tests examined discrimination of the contrast as well as lexical learning. Participants were randomly assigned to high (four talkers) or low (one talker) variability training conditions. RESULTS: direction-i.e., reliably greater improvements in discrimination following single talker training, even for untrained generalization items, although the result is qualified by (accidental) differences between participant groups at pre-test. Adults showed a numeric advantage for high-variability but were inconsistent with respect to voice and word novelty. In addition, no effect of variability was found for lexical learning. There was no evidence of greater plasticity for phonetic learning in child learners. DISCUSSION: This paper adds to the handful of studie"
+   },
+   {
+    "title": "Does high variability training improve the learning of non-native phoneme contrasts over low variability training? A replication",
+    "year": 2022,
+    "cited": 49,
+    "doi": "https://doi.org/10.1016/j.jml.2022.104352",
+    "type": "article",
+    "venue": "Journal of Memory and Language",
+    "abstract": "Acquiring non-native speech contrasts can be difficult. A seminal study by Logan, Lively and Pisoni (1991) established the effectiveness of phonetic training for improving non-native speech perception: Japanese learners of English were trained to perceive /r/-/l/ using minimal pairs over 15 training sessions. A pre/post-test design established learning and generalisation. In a follow-up study, Lively, Logan and Pisoni (1993) presented further evidence which suggested that talker variability in training stimuli was crucial in leading to greater generalisation. These findings have been very influential and “high variability phonetic training” is now a standard methodology in the field. However, while the general benefit of phonetic training is well replicated, the evidence for an advantage of high over lower variability training remains mixed. In a large-scale replication of the original studies using updated statistical analyses we test whether learners generalise more after phonetic training using multiple talkers over a single talker. We find that listeners learn in both multiple and single talker conditions. However, in training, we find no difference in how well listeners learn for high vs low variability training. When comparing generalisation to novel talkers after training in relation to pre-training accuracy, we find ambiguous evidence for a high-variability benefit over"
+   }
+  ]
+ },
+ "B4_capt_meta": {
+  "core": "computer assisted pronunciation training",
+  "extra": "meta-analysis",
+  "error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>",
+  "works": []
+ },
+ "C1_comprehensibility": {
+  "core": "comprehensibility",
+  "extra": "second language speech listeners",
+  "count": 903,
+  "works": [
+   {
+    "title": "Foreign Accent, Comprehensibility, and Intelligibility in the Speech of Second Language Learners",
+    "year": 1995,
+    "cited": 1548,
+    "doi": "https://doi.org/10.1111/j.1467-1770.1995.tb00963.x",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "This study examines the interrelationships among accentedness, perceived comprehensibility, and intelligi bility in the speech of L2 learners. Eighteen native speak ers (NSs) of English listened to excerpts of extemporaneous English speech produced by 10 Mandarin NSs and two English NSs. We asked the listeners to transcribe the utterances in standard orthography and to rate them for degree of foreign‐accentedness and comprehensibility on 9‐ point scales. We assigned the transcriptions intelligibility scores on the basis of exact word matches. Although the utterances tended to be highly intelligible and highly rated for comprehensibility, the accent judgment scores ranged widely, with a noteworthy proportion of scores at the “heavily‐accented” end of the scale. We calculated Pearson correlations for each listener's intelligibility, accentedness, and comprehensibility scores and the phonetic, phonemic, and grammatical errors in the stimuli, as well as goodness of intonation ratings. Most listeners showed significant correlations between accentedness and errors, fewer lis teners showed correlations between accentedness and per ceived comprehensibility, and fewer still showed a rela tionship between accentedness and intelligibility. The findings suggest that although strength of foreign accent is correlated with perceived comprehensibility and intelligibility, a strong foreign acce"
+   },
+   {
+    "title": "Evidence in Favor of a Broad Framework for Pronunciation Instruction",
+    "year": 1998,
+    "cited": 651,
+    "doi": "https://doi.org/10.1111/0023-8333.00047",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "We had native English‐speaking (NS) listeners evaluate the effects of 3types of instruction (segmental accuracy; general speaking habits and prosodic factors; and nospecific pronunciation instruction) on the speech of 3 groups of English as a second language(ESL) learners. We recorded their sentences and extemporaneously produced narratives at thebeginning and end of a 12‐week course of instruction. In a blind rating task, 48 native Englishlisteners judged randomized sentences for accentedness and comprehensibility. Six experiencedESL teachers evaluated narratives for accent, comprehensibility, and fluency. Although bothgroups instructed in pronunciation showed significant improvement in comprehensibility andaccentedness on the sentences, only the global group showed improvement in comprehensibilityand fluency in the narratives. We argue that the focus of instruction and the attentional demandson speakers and listeners account for these findings."
+   },
+   {
+    "title": "Processing Time, Accent, and Comprehensibility in the Perception of Native and Foreign-Accented Speech",
+    "year": 1995,
+    "cited": 629,
+    "doi": "https://doi.org/10.1177/002383099503800305",
+    "type": "article",
+    "venue": "Language and Speech",
+    "abstract": "In this study, a sentence verification task was used to determine the effect of a foreign accent on sentence processing time. Twenty native English listeners heard a set of English true/false statements uttered by ten native speakers of English and ten native speakers of Mandarin. The listeners assessed the truth value of the statements, and assigned accent and comprehensibility ratings. Response latency data indicated that the Mandarin-accented utterances required more time to evaluate than the utterances of the native English speakers. Furthermore, utterances that were assigned low comprehensibility ratings tended to take longer to process than moderately or highly comprehensible utterances. However, there was no evidence that degree of accent was related to processing time. The results are discussed in terms of the \"costs\" of speaking with a foreign accent, and the relevance of such factors as accent and comprehensibility to second language teaching."
+   },
+   {
+    "title": "THE EFFECT OF FAMILIARITY ON THE COMPREHENSIBILITY OF NONNATIVE SPEECH",
+    "year": 1984,
+    "cited": 522,
+    "doi": "https://doi.org/10.1111/j.1467-1770.1984.tb00996.x",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "This study reports on data collected to investigate the effect of various types of familiarity on native speaker comprehension of nonnative speaker speech. We discuss the effects of familiarity with topic, familiarity with nonnative speech in general, familiarity with a nonnative accent in particular, and familiarity with a particular nonnative. Our results indicate that while the most important of these variables is familiarity with topic, the other variables all have a facilitating effect on comprehension. We discuss these findings as they relate to more general notions of comprehensibility. We also say of some people that they are transparent to us. It is, however, important as regards this observation that one human being can be a complete enigma to another. We learn this when we come into a strange country with entirely strange traditions; and, what is more, even given a mastery of the country's language. We do not understand the people. If a lion could talk, we could not understand him. —Ludwig Wittgenstein"
+   },
+   {
+    "title": "THE MUTUAL INTELLIGIBILITY OF L2 SPEECH",
+    "year": 2006,
+    "cited": 489,
+    "doi": "https://doi.org/10.1017/s0272263106060049",
+    "type": "article",
+    "venue": "Studies in Second Language Acquisition",
+    "abstract": "When understanding or evaluating foreign-accented speech, listeners are affected not only by properties of the speech itself but by their own linguistic backgrounds and their experience with different speech varieties. Given the latter influence, it is not known to what degree a diverse group of listeners might share a response to second language (L2) speech. In this study, listeners from native Cantonese, Japanese, Mandarin, and English backgrounds evaluated the same set of foreign-accented English utterances from native speakers of Cantonese, Japanese, Polish, and Spanish. Regardless of native language background, the listener groups showed moderate to high correlations on intelligibility scores and comprehensibility and accentedness ratings. Although some between-group differences emerged, the groups tended to agree on which of the 48 speakers were the easiest and most difficult to understand; between-group effect sizes were generally small. As in previous studies, the listeners did not consistently exhibit an intelligibility benefit for speech produced in their own accent. These findings support the view that properties of the speech itself are a potent factor in determining how L2 speech is perceived, even when the listeners are from diverse language backgrounds."
+   },
+   {
+    "title": "Second Language Fluency: Judgments on Different Tasks",
+    "year": 2004,
+    "cited": 387,
+    "doi": "https://doi.org/10.1111/j.1467-9922.2004.00282.x",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "In this study we determined whether untrained raters’ assessments of fluency in low‐proficiency second language speech were related to temporal measures and whether they varied across tasks. We collected speech samples from 20 beginner Mandarin learners of English on picture description, monologue, and dialogue tasks. Temporal measures were made on each sample. Twenty‐eight untrained judges rated fluency, comprehensibility, and accentedness. Three trained raters also judged samples for “goodness of prosody.” The rating data paralleled the speech measurements: speakers’ performance on the monologue and dialogue tasks was significantly better than on the narratives; however, listeners’ judgments of goodness of prosody did not vary across tasks. Comprehensibility and fluency ratings were highly correlated; fluency was more strongly related to comprehensibility than to accentedness."
+   },
+   {
+    "title": "MODELING PERCEPTIONS OF THE ACCENTEDNESS AND COMPREHENSIBILITY OF L2 SPEECH The Role of Speaking Rate",
+    "year": 2001,
+    "cited": 361,
+    "doi": "https://doi.org/10.1017/s0272263101004016",
+    "type": "article",
+    "venue": "Studies in Second Language Acquisition",
+    "abstract": "In much previous research, listeners' rating data have served as a dependent variable to demonstrate the effects of age of learning, length of residence, and motivation on L2 users' degree of foreign accent. However, the role of speaking rate in such judgments has not been ascertained. To gain new insight into this relationship, we carried out two experiments involving sentence-length utterances produced by English L2 users. In the first, we observed a significant curvilinear relationship between speaking rates and accentedness and comprehensibility judgments of utterances produced by users from a variety of L1 backgrounds. In the second experiment, by manipulating rates with speech compression-expansion software, we established that this effect was due to the rate differences themselves, rather than to differences in L2 proficiency that might co-vary with rate. In both experiments the listeners tended to assign the highest ratings to L2 speech that was somewhat faster than the rates generally used by L2 users; however, both very fast and very slow speech tended to be less highly rated. Researchers who use listener rating data should be mindful of the potential confounding effect of speaking rate in their data."
+   },
+   {
+    "title": "Suprasegmental Measures of Accentedness and Judgments of Language Learner Proficiency in Oral English",
+    "year": 2010,
+    "cited": 347,
+    "doi": "https://doi.org/10.1111/j.1540-4781.2010.01091.x",
+    "type": "article",
+    "venue": "Modern Language Journal",
+    "abstract": "In high‐stakes oral proficiency testing as well as in everyday encounters, accent is the most salient aspect of nonnative speech. Prior studies of English language learners’ (ELLs’) pronunciation have focused on single parameters of English, such as vowel duration, fundamental frequency as related to intonation, or temporal measures of speech production. The present study addresses a constellation of suprasegmental characteristics of nonnative speakers of accented English, combining indices of speech rate, pause, and intonation. It examines relations between those acoustic measures of accentedness and listeners’ impressions of second‐language oral proficiency. Twenty‐six speech samples elicited from iBT TOEFL ® examinees were analyzed using a KayPENTAX Computerized Speech Laboratory. Monolingual U.S. undergraduates ( n = 188) judged the speakers’ oral proficiency and comprehensibility. A multiple regression analysis revealed the individual and joint predictiveness of each of the suprasegmental measures. The innovative aspect of this study lies in the fact that the multiple features of accentedness were measured via instrumentation rather than being rated by judges who may, themselves, be subject to rating biases. The suprasegmental measures collectively accounted for 50% of the variance in oral proficiency and comprehensibility ratings, even without taking into consideration ot"
+   },
+   {
+    "title": "Disentangling accent from comprehensibility",
+    "year": 2012,
+    "cited": 334,
+    "doi": "https://doi.org/10.1017/s1366728912000168",
+    "type": "article",
+    "venue": "Bilingualism Language and Cognition",
+    "abstract": "The goal of this study was to determine which linguistic aspects of second language speech are related to accent and which to comprehensibility. To address this goal, 19 different speech measures in the oral productions of 40 native French speakers of English were examined in relation to accent and comprehensibility, as rated by 60 novice raters and three experienced teachers. Results showed that both constructs were associated with many speech measures, but that accent was uniquely related to aspects of phonology, including rhythm and segmental and syllable structure accuracy, while comprehensibility was chiefly linked to grammatical accuracy and lexical richness."
+   },
+   {
+    "title": "DECONSTRUCTING COMPREHENSIBILITY",
+    "year": 2012,
+    "cited": 325,
+    "doi": "https://doi.org/10.1017/s0272263112000150",
+    "type": "article",
+    "venue": "Studies in Second Language Acquisition",
+    "abstract": "Comprehensibility, a major concept in second language (L2) pronunciation research that denotes listeners’ perceptions of how easily they understand L2 speech, is central to interlocutors’ communicative success in real-world contexts. Although comprehensibility has been modeled in several L2 oral proficiency scales—for example, the Test of English as a Foreign Language (TOEFL) or the International English Language Testing System (IELTS)—shortcomings of existing scales (e.g., vague descriptors) reflect limited empirical evidence as to which linguistic aspects influence listeners’ judgments of L2 comprehensibility at different ability levels. To address this gap, a mixed-methods approach was used in the present study to gain a deeper understanding of the linguistic aspects underlying listeners’ L2 comprehensibility ratings. First, speech samples of 40 native French learners of English were analyzed using 19 quantitative speech measures, including segmental, suprasegmental, fluency, lexical, grammatical, and discourse-level variables. These measures were then correlated with 60 native English listeners’ scalar judgments of the speakers’ comprehensibility. Next, three English as a second language (ESL) teachers provided introspective reports on the linguistic aspects of speech that they attended to when judging L2 comprehensibility. Following data triangulation, five speech measures"
+   }
+  ]
+ },
+ "C2_intelligibility": {
+  "core": "intelligibility",
+  "extra": "second language speech measurement",
+  "error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>",
+  "works": []
+ },
+ "C3_wer": {
+  "core": "word error rate",
+  "extra": "accented speech recognition",
+  "count": 1064,
+  "works": [
+   {
+    "title": "Connectionist Speech Recognition: A Hybrid Approach",
+    "year": 1993,
+    "cited": 1115,
+    "doi": null,
+    "type": "book",
+    "venue": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+    "abstract": "BACKGROUNDList of Tables 5.1 Comparison of the recognition error rates (I=insertions, S=substitutions, D=deletions) obtained with 1-state phonemic HMMs with discrete emission probabilities, Gaussian emission probabilities, and outputs of a contextual MLP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .94 6.1 Phonetic classification rates at the frame level obtained by standard approaches.\"Full Gaussian\" refers to the case of one Gaussian with full covariance matrix per phoneme, \"MLE\" refers to the case of one discrete likelihood density per phoneme estimated by counting, and \"MAP\" refers to the case of one discrete posterior probability density estimated by counting. . . . . . . . . . . . . . . . . . . . . . .111 6.2 Phonetic classification rates at the frame level obtained from different MLPs, compared with MLE.\"MLPa b-cd\" stands for an MLP with blocs (width of context) of (binary) input units, hidden units and output units.The size of the output layer was kept fixed at 50 units, corresponding to the 50 phonemes to be recognized. . .113 6.3 Phonetic classification rates at the frame level obtained from contextual MLPs, compared with standard likelihoods (MLE) and a posteriori probabilities (MAP).R represents the parametrization ratio, i.e., the number of parameters divided by the number of training patterns. . . . . . . . . .116 6.4 Phonetic classification rates "
+   },
+   {
+    "title": "Racial disparities in automated speech recognition",
+    "year": 2020,
+    "cited": 754,
+    "doi": "https://doi.org/10.1073/pnas.1915768117",
+    "type": "article",
+    "venue": "Proceedings of the National Academy of Sciences",
+    "abstract": "Automated speech recognition (ASR) systems, which use sophisticated machine-learning algorithms to convert spoken language to text, have become increasingly widespread, powering popular virtual assistants, facilitating automated closed captioning, and enabling digital dictation platforms for health care. Over the last several years, the quality of these systems has dramatically improved, due both to advances in deep learning and to the collection of large-scale datasets used to train the systems. There is concern, however, that these tools do not work equally well for all subgroups of the population. Here, we examine the ability of five state-of-the-art ASR systems-developed by Amazon, Apple, Google, IBM, and Microsoft-to transcribe structured interviews conducted with 42 white speakers and 73 black speakers. In total, this corpus spans five US cities and consists of 19.8 h of audio matched on the age and gender of the speaker. We found that all five ASR systems exhibited substantial racial disparities, with an average word error rate (WER) of 0.35 for black speakers compared with 0.19 for white speakers. We trace these disparities to the underlying acoustic models used by the ASR systems as the race gap was equally large on a subset of identical phrases spoken by black and white individuals in our corpus. We conclude by proposing strategies-such as using more diverse training "
+   },
+   {
+    "title": "Sequence-discriminative training of deep neural networks",
+    "year": 2013,
+    "cited": 660,
+    "doi": "https://doi.org/10.21437/interspeech.2013-548",
+    "type": "conference-paper",
+    "venue": "Interspeech (USB)",
+    "abstract": "Sequence-discriminative training of deep neural networks (DNNs) is investigated on a 300 hour American English conversational telephone speech task. Different sequence-discriminative criteria ndash;- maximum mutual information (MMI), minimum phone error (MPE), state-level minimum Bayes risk (sMBR), and boosted MMI ndash;- are compared. Two different heuristics are investigated to improve the performance of the DNNs trained using sequence-based criteria ndash;- lattices are re-generated after the first iteration of training; and, for MMI and BMMI, the frames where the numerator and denominator hypotheses are disjoint are removed from the gradient computation. Starting from a competitive DNN baseline trained using cross-entropy, different sequence-discriminative criteria are shown to lower word error rates by 8-9% relative, on average. Little difference is noticed between the different sequence-based criteria that are investigated. The experiments are done using the open-source Kaldi toolkit, which makes it possible for the wider community to reproduce these results."
+   },
+   {
+    "title": "Exploring architectures, data and units for streaming end-to-end speech recognition with RNN-transducer",
+    "year": 2017,
+    "cited": 351,
+    "doi": "https://doi.org/10.1109/asru.2017.8268935",
+    "type": "conference-paper",
+    "venue": "IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)",
+    "abstract": "We investigate training end-to-end speech recognition models with the recurrent neural network transducer (RNN-T): a streaming, all-neural, sequence-to-sequence architecture which jointly learns acoustic and language model components from transcribed acoustic data. We explore various model architectures and demonstrate how the model can be improved further if additional text or pronunciation data are available. The model consists of an `encoder', which is initialized from a connectionist temporal classification-based (CTC) acoustic model, and a `decoder' which is partially initialized from a recurrent neural network language model trained on text data alone. The entire neural network is trained with the RNN-T loss and directly outputs the recognized transcript as a sequence of graphemes, thus performing end-to-end speech recognition. We find that performance can be improved further through the use of sub-word units ('wordpieces') which capture longer context and significantly reduce substitution errors. The best RNN-T system, a twelve-layer LSTM encoder with a two-layer LSTM decoder trained with 30,000 wordpieces as output targets achieves a word error rate of 8.5% on voice-search and 5.2% on voice-dictation tasks and is comparable to a state-of-the-art baseline at 8.3% on voice-search and 5.4% voice-dictation."
+   },
+   {
+    "title": "Layer-Wise Analysis of a Self-Supervised Speech Representation Model",
+    "year": 2021,
+    "cited": 259,
+    "doi": "https://doi.org/10.1109/asru51503.2021.9688093",
+    "type": "conference-paper",
+    "venue": "IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)",
+    "abstract": "Recently proposed self-supervised learning approaches have been successful for pre-training speech representation models. The utility of these learned representations has been observed empirically, but not much has been studied about the type or extent of information encoded in the pre-trained representations themselves. Developing such insights can help understand the capabilities and limits of these models and enable the research community to more efficiently develop their usage for downstream applications. In this work, we begin to fill this gap by examining one recent and successful pre-trained model (wav2vec 2.0), via its intermediate representation vectors, using a suite of analysis tools. We use the metrics of canonical correlation, mutual information, and performance on simple downstream tasks with non-parametric probes, in order to (i) query for acoustic and linguistic information content, (ii) characterize the evolution of information across model layers, and (iii) understand how fine-tuning the model for automatic speech recognition (ASR) affects these observations. Our findings motivate modifying the fine-tuning protocol for ASR, which produces improved word error rates in a low-resource setting."
+   },
+   {
+    "title": "Selective Vocal Effects Of Delayed Auditory Feedback",
+    "year": 1955,
+    "cited": 227,
+    "doi": "https://doi.org/10.1044/jshd.2004.333",
+    "type": "article",
+    "venue": "Journal of Speech and Hearing Disorders",
+    "abstract": "No AccessJournal of Speech and Hearing DisordersResearch Article1 Dec 1955Selective Vocal Effects Of Delayed Auditory Feedback Grant Fairbanks Grant Fairbanks Google Scholar https://doi.org/10.1044/jshd.2004.333 SectionsAboutPDF ToolsAdd to favoritesDownload CitationTrack Citations ShareFacebookTwitterLinked In Additional Resources FiguresReferencesRelatedDetailsCited byJournal of Speech, Language, and Hearing Research65:5 (1800-1821)11 May 2022Delayed Auditory Feedback Elicits Specific Patterns of Serial Order Errors in a Paced Syllable Sequence Production TaskJessica R. Malloy, Dominic Nistal, Matthias Heyne, Monique C. Tardif and Jason W. Bohland PLOS Biology20:2 (e3001493)3 Feb 2022A cortical network processes auditory error signals during human speech production to maintain fluencyMuge Ozker, Werner Doyle, Orrin Devinsky, Adeen Flinker and Jennifer K. Bizley Journal of Speech, Language, and Hearing Research64:7 (2539-2556)16 Jul 2021Deficit or Difference? Effects of Altered Auditory Feedback on Speech Fluency and Kinematic Variability in Adults Who StutterHeeCheong Chon, Eric S. Jackson, Shelly Jo Kraft, Nicoline G. Ambrose and Torrey M. Loucks Frontiers in Human Neuroscience1424 Apr 2020Speech-Induced Suppression for Delayed Auditory Feedback in Adults Who Do and Do Not StutterAkira Toyomura, Daiki Miyashiro, Shinya Kuriki and Paul F. Sowman Frontiers in Human Neuroscienc"
+   },
+   {
+    "title": "Automatic Speech Recognition Errors Detection and Correction: A Review",
+    "year": 2018,
+    "cited": 155,
+    "doi": "https://doi.org/10.1016/j.procs.2018.03.005",
+    "type": "conference-paper",
+    "venue": "Procedia Computer Science",
+    "abstract": "Even though Automatic Speech Recognition (ASR) has matured to the point of commercial applications, high error rate in some speech recognition domains remain as one of the main impediment factors to the wide adoption of speech technology, and especially for continuous large vocabulary speech recognition applications. The persistent presence of ASR errors have intensified the need to find alternative techniques to automatically detect and correct such errors. The correction of the transcription errors is very crucial not only to improve the speech recognition accuracy, but also to avoid the propagation of the errors to the subsequent language processing modules such as machine translation. In this paper, basic principles of ASR evaluation are first summarized, and then the state of the current ASR errors detection and correction research is reviewed. We focus on emerging techniques using word error rate metric."
+   },
+   {
+    "title": "Automatic Recognition of Spontaneous Speech for Access to Multilingual Oral History Archives",
+    "year": 2004,
+    "cited": 130,
+    "doi": "https://doi.org/10.1109/tsa.2004.828702",
+    "type": "article",
+    "venue": "IEEE Transactions on Speech and Audio Processing",
+    "abstract": "Much is known about the design of automated systems to search broadcast news, but it has only recently become possible to apply similar techniques to large collections of spontaneous speech. This paper presents initial results from experiments with speech recognition, topic segmentation, topic categorization, and named entity detection using a large collection of recorded oral histories. The work leverages a massive manual annotation effort on 10 000 h of spontaneous speech to evaluate the degree to which automatic speech recognition (ASR)-based segmentation and categorization techniques can be adapted to approximate decisions made by human annotators. ASR word error rates near 40% were achieved for both English and Czech for heavily accented, emotional and elderly spontaneous speech based on 65-84 h of transcribed speech. Topical segmentation based on shifts in the recognized English vocabulary resulted in 80% agreement with manually annotated boundary positions at a 0.35 false alarm rate. Categorization was considerably more challenging, with a nearest-neighbor technique yielding F=0.3. This is less than half the value obtained by the same technique on a standard newswire categorization benchmark, but replication on human-transcribed interviews showed that ASR errors explain little of that difference. The paper concludes with a description of how these capabilities could be u"
+   },
+   {
+    "title": "Sub-word Level Lip Reading With Visual Attention",
+    "year": 2022,
+    "cited": 116,
+    "doi": "https://doi.org/10.1109/cvpr52688.2022.00510",
+    "type": "conference-paper",
+    "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+    "abstract": "The goal of this paper is to learn strong lip reading models that can recognise speech in silent videos. Most prior works deal with the open-set visual speech recognition problem by adapting existing automatic speech recognition techniques on top of trivially pooled visual features. Instead, in this paper, we focus on the unique challenges encountered in lip reading and propose tailored solutions. To this end, we make the following contributions: (1) we propose an attention-based pooling mechanism to aggregate visual speech representations; (2) we use sub-word units for lip reading for the first time and show that this allows us to better model the ambiguities of the task; (3) we propose a model for Visual Speech Detection (VSD), trained on top of the lip reading network. Following the above, we obtain state-of-the-art results on the challenging LRS2 and LRS3 benchmarks when training on public datasets, and even surpass models trained on large-scale industrial datasets by using an order of magnitude less data. Our best model achieves 22.6% word error rate on the LRS2 dataset, a performance unprecedented for lip reading models, significantly reducing the performance gap between lip reading and automatic speech recognition. Moreover, on the AVA-ActiveSpeaker benchmark, our VSD model surpasses all visual-only baselines and even outperforms several recent audio-visual methods."
+   },
+   {
+    "title": "Direct Acoustics-to-Word Models for English Conversational Speech Recognition",
+    "year": 2017,
+    "cited": 116,
+    "doi": "https://doi.org/10.21437/interspeech.2017-546",
+    "type": "conference-paper",
+    "venue": "Interspeech (USB)",
+    "abstract": "Recent work on end-to-end automatic speech recognition (ASR) has shown that the connectionist temporal classification (CTC) loss can be used to convert acoustics to phone or character sequences. Such systems are used with a dictionary and separately-trained Language Model (LM) to produce word sequences. However, they are not truly end-to-end in the sense of mapping acoustics directly to words without an intermediate phone representation. In this paper, we present the first results employing direct acoustics-to-word CTC models on two well-known public benchmark tasks: Switchboard and CallHome. These models do not require an LM or even a decoder at run-time and hence recognize speech with minimal complexity. However, due to the large number of word output units, CTC word models require orders of magnitude more data to train reliably compared to traditional systems. We present some techniques to mitigate this issue. Our CTC word model achieves a word error rate of 13.0%/18.8% on the Hub5-2000 Switchboard/CallHome test sets without any LM or decoder compared with 9.6%/16.0% for phone-based CTC with a 4-gram LM. We also present rescoring results on CTC word model lattices to quantify the performance benefits of a LM, and contrast the performance of word and phone CTC models."
+   }
+  ]
+ },
+ "C4_selfassess": {
+  "core": "self-assessment",
+  "extra": "second language speaking",
+  "count": 14672,
+  "works": [
+   {
+    "title": "Developing the theory of formative assessment",
+    "year": 2009,
+    "cited": 3276,
+    "doi": "https://doi.org/10.1007/s11092-008-9068-5",
+    "type": "article",
+    "venue": "Educational Assessment Evaluation and Accountability",
+    "abstract": ""
+   },
+   {
+    "title": "2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee",
+    "year": 2020,
+    "cited": 2504,
+    "doi": "https://doi.org/10.1002/acr.24131",
+    "type": "article",
+    "venue": "Arthritis Care & Research",
+    "abstract": "OBJECTIVE: To develop an evidence-based guideline for the comprehensive management of osteoarthritis (OA) as a collaboration between the American College of Rheumatology (ACR) and the Arthritis Foundation, updating the 2012 ACR recommendations for the management of hand, hip, and knee OA. METHODS: We identified clinically relevant population, intervention, comparator, outcomes questions and critical outcomes in OA. A Literature Review Team performed a systematic literature review to summarize evidence supporting the benefits and harms of available educational, behavioral, psychosocial, physical, mind-body, and pharmacologic therapies for OA. Grading of Recommendations Assessment, Development and Evaluation methodology was used to rate the quality of the evidence. A Voting Panel, including rheumatologists, an internist, physical and occupational therapists, and patients, achieved consensus on the recommendations. RESULTS: Based on the available evidence, either strong or conditional recommendations were made for or against the approaches evaluated. Strong recommendations were made for exercise, weight loss in patients with knee and/or hip OA who are overweight or obese, self-efficacy and self-management programs, tai chi, cane use, hand orthoses for first carpometacarpal (CMC) joint OA, tibiofemoral bracing for tibiofemoral knee OA, topical nonsteroidal antiinflammatory drugs (N"
+   },
+   {
+    "title": "Prevention and treatment of low back pain: evidence, challenges, and promising directions",
+    "year": 2018,
+    "cited": 2393,
+    "doi": "https://doi.org/10.1016/s0140-6736(18)30489-6",
+    "type": "article",
+    "venue": "The Lancet",
+    "abstract": ""
+   },
+   {
+    "title": "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power.",
+    "year": 2016,
+    "cited": 2062,
+    "doi": "https://doi.org/10.1037/pspp0000096",
+    "type": "article",
+    "venue": "Journal of Personality and Social Psychology",
+    "abstract": "(see record 2017-26058-001).In the article, all citations to McCrae and Costa (2008), except for the instance in which it appears in the first paragraph of the introduction, should instead appear as McCrae and Costa (2010). The complete citation should read as follows: McCrae, R. R., & Costa, P. T. (2010). NEO Inventories professional manual. Lutz, FL: Psychological Assessment Resources. The attribution to the BFI-2 items that appears in the Table 6 note should read as follows: BFI-2 items adapted from \"Conceptualization, Development, and Initial Validation of the Big Five Inventory-2,\" by C. J. Soto and O. P. John, 2015, Paper presented at the biennial meeting of the Association for Research in Personality. Copyright 2015 by Oliver P. John and Christopher J. Soto. The complete citation in the References list should appear as follows: Soto, C. J., & John, O. P. (2015, June). Conceptualization, development, and initial validation of the Big Five Inventory-2. Paper presented at the biennial meeting of the Association for Research in Personality, St. Louis, MO. Available from http://www.colby.edu/psych/personality-lab/ All versions of this article have been corrected. All versions of this article have been corrected.] Three studies were conducted to develop and validate the Big Five Inventory-2 (BFI-2), a major revision of the Big Five Inventory (BFI). Study 1 specified a hierarch"
+   },
+   {
+    "title": "2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee",
+    "year": 2020,
+    "cited": 1995,
+    "doi": "https://doi.org/10.1002/art.41142",
+    "type": "article",
+    "venue": "Arthritis & Rheumatology",
+    "abstract": "Objective To develop an evidence‐based guideline for the comprehensive management of osteoarthritis ( OA ) as a collaboration between the American College of Rheumatology ( ACR ) and the Arthritis Foundation, updating the 2012 ACR recommendations for the management of hand, hip, and knee OA . Methods We identified clinically relevant population, intervention, comparator, outcomes questions and critical outcomes in OA . A Literature Review Team performed a systematic literature review to summarize evidence supporting the benefits and harms of available educational, behavioral, psychosocial, physical, mind‐body, and pharmacologic therapies for OA . Grading of Recommendations Assessment, Development and Evaluation methodology was used to rate the quality of the evidence. A Voting Panel, including rheumatologists, an internist, physical and occupational therapists, and patients, achieved consensus on the recommendations. Results Based on the available evidence, either strong or conditional recommendations were made for or against the approaches evaluated. Strong recommendations were made for exercise, weight loss in patients with knee and/or hip OA who are overweight or obese, self‐efficacy and self‐management programs, tai chi, cane use, hand orthoses for first carpometacarpal ( CMC ) joint OA , tibiofemoral bracing for tibiofemoral knee OA , topical nonsteroidal antiinflammatory "
+   },
+   {
+    "title": "The Functional Assessment of Chronic Illness Therapy (FACIT) Measurement System: properties, applications, and interpretation.",
+    "year": 2003,
+    "cited": 1506,
+    "doi": "https://doi.org/10.1186/1477-7525-1-79",
+    "type": "article",
+    "venue": "Health and Quality of Life Outcomes",
+    "abstract": "The Functional Assessment of Chronic Illness Therapy (FACIT) Measurement System is a collection of health-related quality of life (HRQOL) questionnaires targeted to the management of chronic illness. The measurement system, under development since 1987, began with the creation of a generic CORE questionnaire called the Functional Assessment of Cancer Therapy-General (FACT-G). The FACT-G (now in Version 4) is a 27-item compilation of general questions divided into four primary QOL domains: Physical Well-Being, Social/Family Well-Being, Emotional Well-Being, and Functional Well-Being. It is appropriate for use with patients with any form of cancer, and extensions of it have been used and validated in other chronic illness condition (e.g., HIV/AIDS; multiple sclerosis; Parkinson's disease; rheumatoid arthritis), and in the general population. The FACIT Measurement System now includes over 400 questions, some of which have been translated into more than 45 languages. Assessment of any one patient is tailored so that the most-relevant questions are asked and administration time for any one assessment is usually less than 15 minutes. This is accomplished both by the use of specific subscales for relevant domains of HRQOL, or computerized adaptive testing (CAT) of selected symptoms and functional areas. FACIT questionnaires can be administered by self-report (paper or computer) or int"
+   },
+   {
+    "title": "Psychosocial Care for People With Diabetes: A Position Statement of the American Diabetes Association",
+    "year": 2016,
+    "cited": 1065,
+    "doi": "https://doi.org/10.2337/dc16-2053",
+    "type": "article",
+    "venue": "Diabetes Care",
+    "abstract": "Complex environmental, social, behavioral, and emotional factors, known as psychosocial factors, influence living with diabetes, both type 1 and type 2, and achieving satisfactory medical outcomes and psychological well-being.Thus, individuals with diabetes and their families are challenged with complex, multifaceted issues when integrating diabetes care into daily life.To promote optimal medical outcomes and psychological well-being, patient-centered care is essential, defined as \"providing care that is respectful of and responsive to individual patient preferences, needs, and values and ensuring that patient values guide all clinical decisions\" (1).Practicing personalized, patient-centered psychosocial care requires that communications and interactions, problem identification, psychosocial screening, diagnostic evaluation, and intervention services take into account the context of the person with diabetes (PWD) and the values and preferences of the PWD.This article provides diabetes care providers with evidence-based guidelines for psychosocial assessment and care of PWD and their families.Recommendations are based on commonly used clinical models, expert consensus, and tested interventions, taking into account available resources, practice patterns, and practitioner burden.Consideration of life span and disease course factors (Fig. 1) is critical in the psychosocial care of "
+   },
+   {
+    "title": "World Allergy Organization Guidelines for the Assessment and Management of Anaphylaxis",
+    "year": 2011,
+    "cited": 973,
+    "doi": "https://doi.org/10.1097/wox.0b013e318211496c",
+    "type": "article",
+    "venue": "World Allergy Organization Journal",
+    "abstract": "The illustrated World Allergy Organization (WAO) Anaphylaxis Guidelines were created in response to absence of global guidelines for anaphylaxis. Uniquely, before they were developed, lack of worldwide availability of essentials for the diagnosis and treatment of anaphylaxis was documented. They incorporate contributions from more than 100 allergy/immunology specialists on 6 continents. Recommendations are based on the best evidence available, supported by references published to the end of December 2010. The Guidelines review patient risk factors for severe or fatal anaphylaxis, co-factors that amplify anaphylaxis, and anaphylaxis in vulnerable patients, including pregnant women, infants, the elderly, and those with cardiovascular disease. They focus on the supreme importance of making a prompt clinical diagnosis and on the basic initial treatment that is urgently needed and should be possible even in a low resource environment. This involves having a written emergency protocol and rehearsing it regularly; then, as soon as anaphylaxis is diagnosed, promptly and simultaneously calling for help, injecting epinephrine (adrenaline) intramuscularly, and placing the patient on the back or in a position of comfort with the lower extremities elevated. When indicated, additional critically important steps include administering supplemental oxygen and maintaining the airway, establishin"
+   },
+   {
+    "title": "Interventions for improving outcomes in patients with multimorbidity in primary care and community settings",
+    "year": 2016,
+    "cited": 918,
+    "doi": "https://doi.org/10.1002/14651858.cd006560.pub3",
+    "type": "article",
+    "venue": "Cochrane Database of Systematic Reviews",
+    "abstract": "BACKGROUND: Many people with chronic disease have more than one chronic condition, which is referred to as multimorbidity. The term comorbidity is also used but this is now taken to mean that there is a defined index condition with other linked conditions, for example diabetes and cardiovascular disease. It is also used when there are combinations of defined conditions that commonly co-exist, for example diabetes and depression. While this is not a new phenomenon, there is greater recognition of its impact and the importance of improving outcomes for individuals affected. Research in the area to date has focused mainly on descriptive epidemiology and impact assessment. There has been limited exploration of the effectiveness of interventions to improve outcomes for people with multimorbidity. OBJECTIVES: To determine the effectiveness of health-service or patient-oriented interventions designed to improve outcomes in people with multimorbidity in primary care and community settings. Multimorbidity was defined as two or more chronic conditions in the same individual. SEARCH METHODS: We searched MEDLINE, EMBASE, CINAHL and seven other databases to 28 September 2015. We also searched grey literature and consulted experts in the field for completed or ongoing studies. SELECTION CRITERIA: Two review authors independently screened and selected studies for inclusion. We considered rand"
+   },
+   {
+    "title": "Music listening enhances cognitive recovery and mood after middle cerebral artery stroke",
+    "year": 2008,
+    "cited": 906,
+    "doi": "https://doi.org/10.1093/brain/awn013",
+    "type": "article",
+    "venue": "Brain",
+    "abstract": "We know from animal studies that a stimulating and enriched environment can enhance recovery after stroke, but little is known about the effects of an enriched sound environment on recovery from neural damage in humans. In humans, music listening activates a wide-spread bilateral network of brain regions related to attention, semantic processing, memory, motor functions, and emotional processing. Music exposure also enhances emotional and cognitive functioning in healthy subjects and in various clinical patient groups. The potential role of music in neurological rehabilitation, however, has not been systematically investigated. This single-blind, randomized, and controlled trial was designed to determine whether everyday music listening can facilitate the recovery of cognitive functions and mood after stroke. In the acute recovery phase, 60 patients with a left or right hemisphere middle cerebral artery (MCA) stroke were randomly assigned to a music group, a language group, or a control group. During the following two months, the music and language groups listened daily to self-selected music or audio books, respectively, while the control group received no listening material. In addition, all patients received standard medical care and rehabilitation. All patients underwent an extensive neuropsychological assessment, which included a wide range of cognitive tests as well as mo"
+   }
+  ]
+ },
+ "C5_diagnostic": {
+  "core": "diagnostic assessment",
+  "extra": "second language speaking",
+  "count": 3806,
+  "works": [
+   {
+    "title": "GLIM criteria for the diagnosis of malnutrition – A consensus report from the global clinical nutrition community",
+    "year": 2018,
+    "cited": 2991,
+    "doi": "https://doi.org/10.1016/j.clnu.2018.08.002",
+    "type": "article",
+    "venue": "Clinical Nutrition",
+    "abstract": ""
+   },
+   {
+    "title": "Prodromal Assessment With the Structured Interview for Prodromal Syndromes and the Scale of Prodromal Symptoms: Predictive Validity, Interrater Reliability, and Training to Reliability",
+    "year": 2003,
+    "cited": 1799,
+    "doi": "https://doi.org/10.1093/oxfordjournals.schbul.a007040",
+    "type": "article",
+    "venue": "Schizophrenia Bulletin",
+    "abstract": "As the number of studies related to the early identification of and intervention in the schizophrenia prodrome continues to grow, it becomes increasingly critical to develop methods to diagnose this new clinical entity with validity. Furthermore, given the low incidence of patients and the need for multisite collaboration, diagnostic and symptom severity reliability is also crucial. This article provides further data on these psychometric parameters for the prodromal assessment instruments developed by the Prevention through Risk Identification, Management, and Education (PRIME) prodromal research team at Yale University: the Structured Interview for Prodromal Syndromes and the Scale of Prodromal Symptoms. It also presents data suggesting that excellent interrater reliability can be established for diagnosis in a day-and-a-half-long training workshop."
+   },
+   {
+    "title": "GLIM criteria for the diagnosis of malnutrition – A consensus report from the global clinical nutrition community",
+    "year": 2019,
+    "cited": 1712,
+    "doi": "https://doi.org/10.1002/jcsm.12383",
+    "type": "article",
+    "venue": "Journal of Cachexia Sarcopenia and Muscle",
+    "abstract": "RATIONALE: This initiative is focused on building a global consensus around core diagnostic criteria for malnutrition in adults in clinical settings. METHODS: In January 2016, the Global Leadership Initiative on Malnutrition (GLIM) was convened by several of the major global clinical nutrition societies. GLIM appointed a core leadership committee and a supporting working group with representatives bringing additional global diversity and expertise. Empirical consensus was reached through a series of face-to-face meetings, telephone conferences, and e-mail communications. RESULTS: A two-step approach for the malnutrition diagnosis was selected, i.e., first screening to identify \"at risk\" status by the use of any validated screening tool, and second, assessment for diagnosis and grading the severity of malnutrition. The malnutrition criteria for consideration were retrieved from existing approaches for screening and assessment. Potential criteria were subjected to a ballot among the GLIM core and supporting working group members. The top five ranked criteria included three phenotypic criteria (weight loss, low body mass index, and reduced muscle mass) and two etiologic criteria (reduced food intake or assimilation, and inflammation or disease burden). To diagnose malnutrition at least one phenotypic criterion and one etiologic criterion should be present. Phenotypic metrics for g"
+   },
+   {
+    "title": "Evaluating patient-based outcome measures for use in clinical trials.",
+    "year": 1998,
+    "cited": 1712,
+    "doi": "https://doi.org/10.3310/hta2140",
+    "type": "article",
+    "venue": "Health Technology Assessment",
+    "abstract": "NHS R&D HTA ProgrammeT he overall aim of the NHS R&D Health Technology Assessment (HTA) programme is to ensure that high-quality research information on the costs, effectiveness and broader impact of health technologies is produced in the most efficient way for those who use, manage and work in the NHS.Research is undertaken in those areas where the evidence will lead to the greatest benefits to patients, either through improved patient outcomes or the most efficient use of NHS resources.The Standing Group on Health Technology advises on national priorities for health technology assessment.Six advisory panels assist the Standing Group in identifying and prioritising projects.These priorities are then considered by the HTA Commissioning Board supported by the National Coordinating Centre for HTA (NCCHTA).This report is one of a series covering acute care, diagnostics and imaging, methodology, pharmaceuticals, population screening, and primary and community care.It was identified as a priority by the Methodology Panel and funded as project number 93/47/09.The views expressed in this publication are those of the authors and not necessarily those of the Standing Group, the Commissioning Board, the Panel members or the Department of Health.The editors wish to emphasise that funding and publication of this research by the NHS should not be taken as implicit support for the recommenda"
+   },
+   {
+    "title": "Official American Thoracic Society/Centers for Disease Control and Prevention/Infectious Diseases Society of America Clinical Practice Guidelines: Treatment of Drug-Susceptible Tuberculosis",
+    "year": 2016,
+    "cited": 1489,
+    "doi": "https://doi.org/10.1093/cid/ciw376",
+    "type": "article",
+    "venue": "Clinical Infectious Diseases",
+    "abstract": "The American Thoracic Society, Centers for Disease Control and Prevention, and Infectious Diseases Society of America jointly sponsored the development of this guideline for the treatment of drug-susceptible tuberculosis, which is also endorsed by the European Respiratory Society and the US National Tuberculosis Controllers Association. Representatives from the American Academy of Pediatrics, the Canadian Thoracic Society, the International Union Against Tuberculosis and Lung Disease, and the World Health Organization also participated in the development of the guideline. This guideline provides recommendations on the clinical and public health management of tuberculosis in children and adults in settings in which mycobacterial cultures, molecular and phenotypic drug susceptibility tests, and radiographic studies, among other diagnostic tools, are available on a routine basis. For all recommendations, literature reviews were performed, followed by discussion by an expert committee according to the Grading of Recommendations, Assessment, Development and Evaluation methodology. Given the public health implications of prompt diagnosis and effective management of tuberculosis, empiric multidrug treatment is initiated in almost all situations in which active tuberculosis is suspected. Additional characteristics such as presence of comorbidities, severity of disease, and response to "
+   },
+   {
+    "title": "Anxiety Disorders in Children and Adolescents with Autistic Spectrum Disorders: A Meta-Analysis",
+    "year": 2011,
+    "cited": 1459,
+    "doi": "https://doi.org/10.1007/s10567-011-0097-0",
+    "type": "review",
+    "venue": "Clinical Child and Family Psychology Review",
+    "abstract": "There is considerable evidence that children and adolescents with autistic spectrum disorders (ASD) are at increased risk of anxiety and anxiety disorders. However, it is less clear which of the specific DSM-IV anxiety disorders occur most in this population. The present study used meta-analytic techniques to help clarify this issue. A systematic review of the literature identified 31 studies involving 2,121 young people (aged <18 years) with ASD, and where the presence of anxiety disorder was assessed using standardized questionnaires or diagnostic interviews. Across studies, 39.6% of young people with ASD had at least one comorbid DSM-IV anxiety disorder, the most frequent being specific phobia (29.8%) followed by OCD (17.4%) and social anxiety disorder (16.6%). Associations were found between the specific anxiety disorders and ASD subtype, age, IQ, and assessment method (questionnaire versus interview). Implications for the identification and treatment of anxiety in young people with ASD are discussed."
+   },
+   {
+    "title": "GLIM Criteria for the Diagnosis of Malnutrition: A Consensus Report From the Global Clinical Nutrition Community",
+    "year": 2018,
+    "cited": 1438,
+    "doi": "https://doi.org/10.1002/jpen.1440",
+    "type": "article",
+    "venue": "Journal of Parenteral and Enteral Nutrition",
+    "abstract": "BACKGROUND: This initiative aims to build a global consensus around core diagnostic criteria for malnutrition in adults in clinical settings. METHODS: The Global Leadership Initiative on Malnutrition (GLIM) was convened by several of the major global clinical nutrition societies. Empirical consensus was reached through a series of face-to-face meetings, telephone conferences, and e-mail communications. RESULTS: A 2-step approach for the malnutrition diagnosis was selected, that is, first screening to identify at risk status by the use of any validated screening tool, and second, assessment for diagnosis and grading the severity of malnutrition. The malnutrition criteria for consideration were retrieved from existing approaches for screening and assessment. Potential criteria were subjected to a ballot among GLIM participants that selected 3 phenotypic criteria (non-volitional weight loss, low body mass index, and reduced muscle mass) and 2 etiologic criteria (reduced food intake or assimilation, and inflammation or disease burden). To diagnose malnutrition at least 1 phenotypic criterion and 1 etiologic criterion should be present. Phenotypic metrics for grading severity are proposed. It is recommended that the etiologic criteria be used to guide intervention and anticipated outcomes. The recommended approach supports classification of malnutrition into four etiology-related di"
+   },
+   {
+    "title": "Early Exposure to Anesthesia and Learning Disabilities in a Population-based Birth Cohort",
+    "year": 2009,
+    "cited": 1365,
+    "doi": "https://doi.org/10.1097/01.anes.0000344728.34332.5d",
+    "type": "article",
+    "venue": "Anesthesiology",
+    "abstract": "EXPOSURE to alcohol and some anesthetic and sedative drugs cause histopathologic changes in the developing brains of animals.1–3Implicated drugs include N -methyl-d-aspartate glutamate receptor antagonists (e.g. , ketamine, nitrous oxide) and agents with γ-aminobutyric acid A mimetic properties (e.g. , pentobarbital, diazepam, isoflurane, halothane, propofol). Some studies suggest that even relatively brief single exposures trigger changes, especially when combinations of agents are used.1–6In one report, histologic neurodegeneration was associated with a diminished capacity to retain learned behaviors.7It is not known whether findings in rodent models can be extrapolated to humans, but emerging histologic data in nonhuman primates8tend to confirm findings in rodents. These findings have engendered considerable concern among the U.S. Food and Drug Administration and others.5Except for case series reporting developmental outcomes of critically ill neonates and children undergoing repair of congenital heart disease,9–12which have multiple limitations, there are no data that can yield insight into whether exposure to anesthesia and surgery during human development causes clinically relevant impairment in neural development.One challenge to determining whether exposure to anesthesia and surgery in early life impairs neural development is defining relevant outcomes. Learning disabil"
+   },
+   {
+    "title": "SolexaQA: At-a-glance quality assessment of Illumina second-generation sequencing data",
+    "year": 2010,
+    "cited": 1352,
+    "doi": "https://doi.org/10.1186/1471-2105-11-485",
+    "type": "article",
+    "venue": "BMC Bioinformatics",
+    "abstract": "BACKGROUND: Illumina's second-generation sequencing platform is playing an increasingly prominent role in modern DNA and RNA sequencing efforts. However, rapid, simple, standardized and independent measures of run quality are currently lacking, as are tools to process sequences for use in downstream applications based on read-level quality data. RESULTS: We present SolexaQA, a user-friendly software package designed to generate detailed statistics and at-a-glance graphics of sequence data quality both quickly and in an automated fashion. This package contains associated software to trim sequences dynamically using the quality scores of bases within individual reads. CONCLUSION: The SolexaQA package produces standardized outputs within minutes, thus facilitating ready comparison between flow cell lanes and machine runs, as well as providing immediate diagnostic information to guide the manipulation of sequence data for downstream analyses."
+   },
+   {
+    "title": "The measurement of satisfaction with healthcare: implications for practice from a systematic review of the literature",
+    "year": 2002,
+    "cited": 1274,
+    "doi": "https://doi.org/10.3310/hta6320",
+    "type": "review",
+    "venue": "Health Technology Assessment",
+    "abstract": "Summaries are available from the NCCHTA website (see opposite). NHS R&D HTA ProgrammeT he NHS R&D Health Technology Assessment (HTA) Programme was set up in 1993 to ensure that high-quality research information on the costs, effectiveness and broader impact of health technologies is produced in the most efficient way for those who use, manage and provide care in the NHS.Initially, six HTA panels (pharmaceuticals, acute sector, primary and community care, diagnostics and imaging, population screening, methodology) helped to set the research priorities for the HTA Programme.However, during the past few years there have been a number of changes in and around NHS R&D, such as the establishment of the National Institute for Clinical Excellence (NICE) and the creation of three new research programmes: Service Delivery and Organisation (SDO); New and Emerging Applications of Technology (NEAT); and the Methodology Programme.Although the National Coordinating Centre for Health Technology Assessment (NCCHTA) commissions research on behalf of the Methodology Programme, it is the Methodology Group that now considers and advises the Methodology Programme Director on the best research projects to pursue."
+   }
+  ]
+ },
+ "D1_topic_familiar": {
+  "core": "topic familiarity",
+  "extra": "second language speaking fluency",
+  "count": 114,
+  "works": [
+   {
+    "title": "THE EFFECT OF FAMILIARITY ON THE COMPREHENSIBILITY OF NONNATIVE SPEECH",
+    "year": 1984,
+    "cited": 522,
+    "doi": "https://doi.org/10.1111/j.1467-1770.1984.tb00996.x",
+    "type": "article",
+    "venue": "Language Learning",
+    "abstract": "This study reports on data collected to investigate the effect of various types of familiarity on native speaker comprehension of nonnative speaker speech. We discuss the effects of familiarity with topic, familiarity with nonnative speech in general, familiarity with a nonnative accent in particular, and familiarity with a particular nonnative. Our results indicate that while the most important of these variables is familiarity with topic, the other variables all have a facilitating effect on comprehension. We discuss these findings as they relate to more general notions of comprehensibility. We also say of some people that they are transparent to us. It is, however, important as regards this observation that one human being can be a complete enigma to another. We learn this when we come into a strange country with entirely strange traditions; and, what is more, even given a mastery of the country's language. We do not understand the people. If a lion could talk, we could not understand him. —Ludwig Wittgenstein"
+   },
+   {
+    "title": "The effects of syntactic and lexical complexity on the comprehension of elementary science texts",
+    "year": 2011,
+    "cited": 80,
+    "doi": null,
+    "type": "article",
+    "venue": "lnternational Electronic Journal of Elementary Education",
+    "abstract": "In this study we examined the effects of syntactic and lexical complexity on third-grade students' comprehension of science texts. A total of 16 expository texts were designed to represent systematic differences in levels of syntactic and lexical complexity across four science-related topics (Tree Frogs, Soil, Jelly Beans and Toothpaste). A Latin-square design was used to counterbalance the order of administration of these 16 texts. After reading each text, students responded to a post-test comprehension measure (without access to the text). External measures of reading achievement and prior vocabulary knowledge were also gathered to serve as control variables. Findings show that lexical complexity had a significant impact on students' comprehension on two of the four topics. Comprehension performance was not influenced by the syntactic complexity of texts, regardless of topic. Further, no additional effects were found for English language learners. Potentially moderating and confounding issues, such as the inference demand of syntactically simple texts and the role of topic familiarity, are discussed in order to explain the inconsistency of the findings across topics."
+   },
+   {
+    "title": "Bilingual advantage and language switch: What's the linkage?",
+    "year": 2015,
+    "cited": 68,
+    "doi": "https://doi.org/10.1017/s1366728915000565",
+    "type": "article",
+    "venue": "Bilingualism Language and Cognition",
+    "abstract": "Whether bilingualism affects executive functions is a topic of intense debate. While some studies have provided evidence of enhanced executive functions in bilinguals compared to monolinguals, other studies have failed to find advantages. In the present study, we investigated whether high opportunity of language switching could contribute to bilingual advantage. Advantages have been consistently found with Catalan–Spanish bilinguals who experience frequent opportunities of language switching. Fewer opportunities are experienced by speakers of Italian and one of the Italian dialects, the participants of our study. We anticipated reduced or no advantages with these participants. In Experiment 1, subjective estimates of familiarity with dialect failed to show a relationship with performances in different tasks involving executive control. In Experiment 2, we compared Italian–Venetian dialect bilinguals to Italian monolinguals in the flanker task, and no advantages were found either. Contrasting with results from Catalan–Spanish bilinguals, our results suggest that language switching plays a role in bilingual advantages."
+   },
+   {
+    "title": "YouTube Videos as a Resource for Self-Regulated Pronunciation Practice in EFL Distance Learning Environments",
+    "year": 2022,
+    "cited": 43,
+    "doi": "https://doi.org/10.32996/jeltal.2022.4.2.4",
+    "type": "article",
+    "venue": "Journal of English Language Teaching and Applied Linguistics",
+    "abstract": "Many EFL students have limited opportunities to listen to native speakers, practice English out of class, have problems in listening comprehension, oral expression and lack oral fluency. This article proposes using YouTube videos to improve EFL students' pronunciation. It aims to show the following: (i) How YouTube videos can be integrated in EFL instruction to teach pronunciation; (ii) the advantages of integrating YouTube videos: They are free, provide variety of topics, speakers, difficulty level, can be easily downloaded to the laptop or mobile phone and can be viewed anywhere and anytime; (iii) show how examples YouTube videos that target a specific pronunciation skill can be located; (iv) criteria for selecting online videos such as the video length in minutes, topic familiarity, difficulty level, speed of the speakers, students’ proficiency level, and students’ interests; (v) pronunciation subskills that can be developed through supplementary YouTube videos; (vi) teaching and learning with YouTube videos before watching a video, while watching the video and after watching the video. Further recommendations for developing students’ pronunciation are given."
+   },
+   {
+    "title": "Initiating and delivering news of the day: Interactional competence as joint-development",
+    "year": 2018,
+    "cited": 38,
+    "doi": "https://doi.org/10.1016/j.pragma.2018.08.019",
+    "type": "article",
+    "venue": "Journal of Pragmatics",
+    "abstract": ""
+   },
+   {
+    "title": "The Use of L1 as a Writing Strategy in L2 Writing Tasks",
+    "year": 2014,
+    "cited": 37,
+    "doi": "https://doi.org/10.17576/gema-2014-1403-03",
+    "type": "article",
+    "venue": "GEMA Online Journal of Language Studies",
+    "abstract": "Numerous studies have investigated how students integrate L1 for the function of acquiring L2 writing proficiency. However, there is still no consensus that relates the degree of L1 use and various writing strategies in L2 writing to student proficiency levels and writing genres or writing tasks. The present study explored these issues over the course of 14 weeks with nine Korean university students of three different proficiency levels performing six writing tasks in two genres. The data were collected from the students’ think-aloud protocols and retrospective interviews. The think-aloud and interview data were analyzed to examine the students’ use of L1 during the L2 writing. The think-aloud protocols were also coded into their functions for what purposes each language type was used. The results showed that lower level students used their L1 more than the advanced students, but all students used L1 to different degrees depending on each task. In other words, the students reacted differently in accordance with task familiarity and the relative ease or difficulty of the task. The study also found that there was no consistent relationship between language proficiency and the types of writing strategies the students used in L2 composition. On the other hand, this study showed that although the types of writing strategies the students employed were similar, the students of various"
+   },
+   {
+    "title": "The Effect of Text Familiarity on Iranian EFL Learners' Listening Comprehension",
+    "year": 2011,
+    "cited": 32,
+    "doi": "https://doi.org/10.4304/jltr.2.4.783-789",
+    "type": "article",
+    "venue": "Journal of Language Teaching and Research",
+    "abstract": "Listening is an active process in which a listener selects and interprets information which comes from auditory and visual clues in order to define what is going on and what the speakers are trying to express.It involves both linguistic and non-linguistic knowledge.Linguistic knowledge relates to knowledge of phonology, lexis, syntax, semantics, discourse structure, pragmatics and sociolinguistics, whereas nonlinguistic refers to knowledge of the topic, the context and general knowledge about the world and how it works.This article investigates the effect of text familiarity on listening comprehension.The paper focuses on two main issues.First, it investigates the effect of text familiarity on listening comprehension of Iranian EFL learners.Second, it investigates the influence of text familiarity on some aspects of the language.Sixty students who were studying in English Translation at the Islamic Azad University of Lahijan, Iran participated in this study.After comparing the pretest and posttest scores, it was indicated that Iranian EFL learners got substantially higher scores after the treatment.The findings showed that text familiarity has a considerable impact on listening comprehension of Iranian EFL learners."
+   },
+   {
+    "title": "Detecting Artificial Intelligence–Generated Versus Human-Written Medical Student Essays: Semirandomized Controlled Study",
+    "year": 2025,
+    "cited": 29,
+    "doi": "https://doi.org/10.2196/62779",
+    "type": "article",
+    "venue": "JMIR Medical Education",
+    "abstract": "BACKGROUND: Large language models, exemplified by ChatGPT, have reached a level of sophistication that makes distinguishing between human- and artificial intelligence (AI)-generated texts increasingly challenging. This has raised concerns in academia, particularly in medicine, where the accuracy and authenticity of written work are paramount. OBJECTIVE: This semirandomized controlled study aims to examine the ability of 2 blinded expert groups with different levels of content familiarity-medical professionals and humanities scholars with expertise in textual analysis-to distinguish between longer scientific texts in German written by medical students and those generated by ChatGPT. Additionally, the study sought to analyze the reasoning behind their identification choices, particularly the role of content familiarity and linguistic features. METHODS: Between May and August 2023, a total of 35 experts (medical: n=22; humanities: n=13) were each presented with 2 pairs of texts on different medical topics. Each pair had similar content and structure: 1 text was written by a medical student, and the other was generated by ChatGPT (version 3.5, March 2023). Experts were asked to identify the AI-generated text and justify their choice. These justifications were analyzed through a multistage, interdisciplinary qualitative analysis to identify relevant textual features. Before unblindi"
+   },
+   {
+    "title": "Cluttering Updated",
+    "year": 2003,
+    "cited": 28,
+    "doi": "https://doi.org/10.1044/leader.ftr1.08212003.4",
+    "type": "article",
+    "venue": "ASHA Leader",
+    "abstract": "You have accessThe ASHA LeaderFeature1 Nov 2003Cluttering Updated Kenneth O. St. Louis, Lawrence J. Raphael, Florence L. Myers, and Klaas Bakker Kenneth O. St. Louis Google Scholar , Lawrence J. Raphael Google Scholar , Florence L. Myers Google Scholar and Klaas Bakker Google Scholar https://doi.org/10.1044/leader.FTR1.08212003.4 SectionsAbout ToolsAdd to favorites ShareFacebookTwitterLinked In Most speech-language pathologists are aware of the fluency disorder known as cluttering, and most seasoned clinicians have managed a few clients with the disorder. Many remember these clients not by how well they responded to treatment but by how puzzling it was to know what to do with them and how challenging they were to treat. Those who have reviewed the literature on cluttering are often struck by the paucity of research and the lack of a widely accepted definition. The list of cluttering symptoms (see sidebar on p. 21) and the commentaries from those with the disorder (see sidebar at the top right of p. 5) explain, in part, why defining cluttering is so difficult: It is hard to know which symptoms are essential to the disorder and which are incidental. Identification Our research has advanced the following working definition: \"Cluttering is a syndrome characterized by a speech delivery rate which is either abnormally fast, irregular, or both. In cluttered speech, the person's speech"
+   },
+   {
+    "title": "Rapid Changes in Foreign Language Learning Anxiety Caused by a Multiplicity of Topics: An Idiodynamic Approach",
+    "year": 2020,
+    "cited": 25,
+    "doi": "https://doi.org/10.17323/jle.2020.9684",
+    "type": "article",
+    "venue": "Journal of language and Education",
+    "abstract": "Considering the dynamicnature of foreign language anxiety (FLA), we applied an idiodynamic method to explore topic-based variations of FLA. Before the study was conducted, a class of 20 female intermediate English as foreign language learners were assessed using the foreign language classroom anxiety scale (FLCAS). Two low-anxiety learners and two high-anxiety learners were selected to participate in this study. The idiodynamic method involved videotaping the participants’ responses to four topic-based questions, their self-ratings of fluctuations in FLA while answering the questions, and drawing attributions for topic-based changes in FLA. The results demonstrated both within-individual and between-individual stability and variation in FLA. Linguistic block, topic familiarity, topic interest, and topic-related emotional loading were revealed as the major factors affecting the dynamics of FLA. The pedagogical implications of the findings are discussed."
+   }
+  ]
+ },
+ "D2_task_type": {
+  "core": "task type",
+  "extra": "second language fluency measures",
+  "count": 3637,
+  "works": [
+   {
+    "title": "On Faithfulness and Factuality in Abstractive Summarization",
+    "year": 2020,
+    "cited": 1163,
+    "doi": "https://doi.org/10.18653/v1/2020.acl-main.173",
+    "type": "conference-paper",
+    "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+    "abstract": "It is well known that the standard likelihood training and approximate decoding objectives in neural text generation models lead to less human-like responses for open-ended tasks such as language modeling and story generation.In this paper we have analyzed limitations of these models for abstractive document summarization and found that these models are highly prone to hallucinate content that is unfaithful to the input document.We conducted a large scale human evaluation of several neural abstractive summarization systems to better understand the types of hallucinations they produce.Our human annotators found substantial amounts of hallucinated content in all model generated summaries.However, our analysis does show that pretrained models are better summarizers not only in terms of raw metrics, i.e., ROUGE, but also in generating faithful and factual summaries as evaluated by humans.Furthermore, we show that textual entailment measures better correlate with faithfulness than standard metrics, potentially leading the way to automatic evaluation metrics as well as training and decoding criteria.1 * The first two authors contributed equally."
+   },
+   {
+    "title": "The Influence of Planning and Task Type on Second Language Performance",
+    "year": 1996,
+    "cited": 1146,
+    "doi": "https://doi.org/10.1017/s0272263100015047",
+    "type": "article",
+    "venue": "Studies in Second Language Acquisition",
+    "abstract": "This study focuses on the impact of different variables on the nature of language performance in the context of task-based instruction. Characteristics of tasks are discussed, and then a framework is offered that can organize the nature of task-based instruction and relevant research. The framework is used to generate predictions regarding the effects of three different tasks (Personal Information Exchange, Narrative, and Decision-Making) and three different implementation conditions for each task (unplanned, planned but without detail, detailed planning) on the variables of fluency, complexity, and accuracy. The study reports strong effects of planning on fluency and clear effects also on complexity, with a linear relationship between degree of planning and degree of complexity. However, a more complex relationship was discovered between planning and accuracy, with the most accurate performance produced by the less detailed planners. In addition, interactions were found between task type and planning conditions, such that the effects of planning were greater with the Narrative and Decision-Making tasks than with the Personal Information Exchange task. The results are discussed in terms of an attentional model of learning and performance and highlight the importance of tradeoff effects between the goals of complexity and accuracy in the context of the use of limited capacity at"
+   },
+   {
+    "title": "Using Linguistic Cues for the Automatic Recognition of Personality in Conversation and Text",
+    "year": 2007,
+    "cited": 1025,
+    "doi": "https://doi.org/10.1613/jair.2349",
+    "type": "article",
+    "venue": "Journal of Artificial Intelligence Research",
+    "abstract": "It is well known that utterances convey a great deal of information about the speaker in addition to their semantic content. One such type of information consists of cues to the speaker's personality traits, the most fundamental dimension of variation between humans. Recent work explores the automatic detection of other types of pragmatic variation in text and conversation, such as emotion, deception, speaker charisma, dominance, point of view, subjectivity, opinion and sentiment. Personality affects these other aspects of linguistic production, and thus personality recognition may be useful for these tasks, in addition to many other potential applications. However, to date, there is little work on the automatic recognition of personality traits. This article reports experimental results for recognition of all Big Five personality traits, in both conversation and text, utilising both self and observer ratings of personality. While other work reports classification results, we experiment with classification, regression and ranking models. For each model, we analyse the effect of different feature sets on accuracy. Results show that for some traits, any type of statistical model performs significantly better than the baseline, but ranking models perform best overall. We also present an experiment suggesting that ranking models are more accurate than multi-class classifiers for mo"
+   },
+   {
+    "title": "Error feedback in L2 writing classes",
+    "year": 2001,
+    "cited": 978,
+    "doi": "https://doi.org/10.1016/s1060-3743(01)00039-x",
+    "type": "article",
+    "venue": "Journal of Second Language Writing",
+    "abstract": ""
+   },
+   {
+    "title": "Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment",
+    "year": 2020,
+    "cited": 948,
+    "doi": "https://doi.org/10.1609/aaai.v34i05.6311",
+    "type": "conference-paper",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "abstract": "Machine learning algorithms are often vulnerable to adversarial examples that have imperceptible alterations from the original counterparts but can fool the state-of-the-art models. It is helpful to evaluate or even improve the robustness of these models by exposing the maliciously crafted adversarial examples. In this paper, we present TextFooler, a simple but strong baseline to generate adversarial text. By applying it to two fundamental natural language tasks, text classification and textual entailment, we successfully attacked three target models, including the powerful pre-trained BERT, and the widely used convolutional and recurrent neural networks. We demonstrate three advantages of this framework: (1) effective—it outperforms previous attacks by success rate and perturbation rate, (2) utility-preserving—it preserves semantic content, grammaticality, and correct types classified by humans, and (3) efficient—it generates adversarial text with computational complexity linear to the text length.1"
+   },
+   {
+    "title": "Psycholinguistic Markers for Specific Language Impairment (SLI)",
+    "year": 2001,
+    "cited": 878,
+    "doi": "https://doi.org/10.1111/1469-7610.00770",
+    "type": "article",
+    "venue": "Journal of Child Psychology and Psychiatry",
+    "abstract": "In this study 160 children, aged 11 years with a definite history of specific language impairment (SLI), completed four tasks that could be potential positive psycholinguistic markers for this impairment: a third person singular task, a past tense task, a nonword repetition task, and a sentence repetition task. This allowed examination of more than one type of marker simultaneously, facilitating both comparisons between markers and also evaluation of combinations of markers in relation to identifying SLI. The study also provided data regarding the markers in relation to nonverbal IQ, made use of new normative data on all tasks, and examined marker accuracy in relation to current language status. The results show that markers vary in accuracy, with sentence repetition (a previously unused marker) proving to be the most useful. This psycholinguistic marker shows high levels of sensitivity (90%), specificity (85%), and overall accuracy (88%), as well as being able to identify the majority of children whose current language status falls in the normal range despite a history of SLI."
+   },
+   {
+    "title": "Task type and task processing conditions as influences on foreign language performance",
+    "year": 1997,
+    "cited": 722,
+    "doi": "https://doi.org/10.1177/136216889700100302",
+    "type": "article",
+    "venue": "Language Teaching Research",
+    "abstract": "This paper examines the effects of planning and post-task activity on task-based performance. It is motivated by the need, given recent claims that task-based instruction has desirable pedagogic qualities, to investigate the effects of choosing different types of tasks, as well as different task implementation conditions, on the fluency, accuracy and complexity of the language which is produced when tasks are carried out. Three tasks are investigated: a personal task, a narrative task and a decision task. A 2-by-2 research design was used, with two planning conditions (10 minutes' planning time vs no planning time) and two post-task conditions (plus or minus knowledge of a post-task). Performance was assessed through the number of pauses (as a measure of fluency), the percentage of error-free clauses (to measure accuracy) and the level of subordination (as a measure of complexity). Confirming hypotheses and previous research, planning had clear effects on almost all measures. The hypothesis that foreknowledge of a post-task activity would selectively influence accuracy received only partial confirmation. Data from the present study was also related to results reported in an earlier study. This revealed that there is strong evidence of trade-off effects between the different dependent variables used, in that fluency, accuracy and complexity seem to enter into competition with on"
+   },
+   {
+    "title": "Domains of cognition and their assessment",
+    "year": 2019,
+    "cited": 688,
+    "doi": "https://doi.org/10.31887/dcns.2019.21.3/pharvey",
+    "type": "article",
+    "venue": "Dialogues in Clinical Neuroscience",
+    "abstract": "Cognitive performance is typically conceptualized in terms of domains of functioning. These domains are hierarchical in nature, with the bottom referring to more basic sensory and perceptual processes and the top referring to elements of executive functioning and cognitive control. Domains are not independent of each other and executive functioning exerts control over the utilization of more basic processes. Assessments are typically targeted at subdomains of each ability area and careful combination of tasks can reveal patterns of performance consistent with a variety of different neurological and neuropsychiatric conditions. This review covers the general structures of domains, the patterns of impairments across domains seen in common neuropsychiatric conditions, and use of assessment strategies to differentiate, to the extent possible, between different types of conditions manifesting cognitive impairment. ."
+   },
+   {
+    "title": "Computerized Cognitive Training with Older Adults: A Systematic Review",
+    "year": 2012,
+    "cited": 658,
+    "doi": "https://doi.org/10.1371/journal.pone.0040588",
+    "type": "review",
+    "venue": "PLoS ONE",
+    "abstract": "A systematic review to examine the efficacy of computer-based cognitive interventions for cognitively healthy older adults was conducted. Studies were included if they met the following criteria: average sample age of at least 55 years at time of training; participants did not have Alzheimer's disease or mild cognitive impairment; and the study measured cognitive outcomes as a result of training. Theoretical articles, review articles, and book chapters that did not include original data were excluded. We identified 151 studies published between 1984 and 2011, of which 38 met inclusion criteria and were further classified into three groups by the type of computerized program used: classic cognitive training tasks, neuropsychological software, and video games. Reported pre-post training effect sizes for intervention groups ranged from 0.06 to 6.32 for classic cognitive training interventions, 0.19 to 7.14 for neuropsychological software interventions, and 0.09 to 1.70 for video game interventions. Most studies reported older adults did not need to be technologically savvy in order to successfully complete or benefit from training. Overall, findings are comparable or better than those from reviews of more traditional, paper-and-pencil cognitive training approaches suggesting that computerized training is an effective, less labor intensive alternative."
+   },
+   {
+    "title": "The Power of Generative AI: A Review of Requirements, Models, Input–Output Formats, Evaluation Metrics, and Challenges",
+    "year": 2023,
+    "cited": 634,
+    "doi": "https://doi.org/10.3390/fi15080260",
+    "type": "article",
+    "venue": "Future Internet",
+    "abstract": "Generative artificial intelligence (AI) has emerged as a powerful technology with numerous applications in various domains. There is a need to identify the requirements and evaluation metrics for generative AI models designed for specific tasks. The purpose of the research aims to investigate the fundamental aspects of generative AI systems, including their requirements, models, input–output formats, and evaluation metrics. The study addresses key research questions and presents comprehensive insights to guide researchers, developers, and practitioners in the field. Firstly, the requirements necessary for implementing generative AI systems are examined and categorized into three distinct categories: hardware, software, and user experience. Furthermore, the study explores the different types of generative AI models described in the literature by presenting a taxonomy based on architectural characteristics, such as variational autoencoders (VAEs), generative adversarial networks (GANs), diffusion models, transformers, language models, normalizing flow models, and hybrid models. A comprehensive classification of input and output formats used in generative AI systems is also provided. Moreover, the research proposes a classification system based on output types and discusses commonly used evaluation metrics in generative AI. The findings contribute to advancements in the field, ena"
+   }
+  ]
+ },
+ "D3_readaloud": {
+  "core": "reading aloud",
+  "extra": "second language fluency OR pronunciation",
+  "count": 3314,
+  "works": [
+   {
+    "title": "The Child Behavior Checklist and Related Forms for Assessing Behavioral/Emotional Problems and Competencies",
+    "year": 2000,
+    "cited": 1287,
+    "doi": "https://doi.org/10.1542/pir.21-8-265",
+    "type": "article",
+    "venue": "Pediatrics in Review",
+    "abstract": "After completing this article, readers should be able to:Primary care physicians who work with children must deal with a great variety of behavioral and emotional problems. The system described in this article provides low-cost, standardized assessment and documentation of such problems and requires little effort by the physician.Primary care physicians are under increasing pressure to obtain standardized documentation for the conditions they encounter. The most obvious pressures stem from managed care. Among the most frequently imposed expectations of primary care physicians are to: To fulfill these expectations, physicians need cost-effective procedures for obtaining, using, and transmitting information about patients.Children’s behavioral and emotional problems pose special challenges for meeting such managed care requirements. Certain types of behavioral problems, such as those ascribed to attention deficit hyperactivity disorder (ADHD), are widely publicized as candidates for medical management. Concerned parents, therefore, may request that pediatricians and family practitioners evaluate their children for ADHD. To assess ADHD and other behavioral and emotional problems, physicians need information from people who see children in their everyday contexts. Parents and parent-surrogates are the primary sources of such information for most children. Older children can contrib"
+   },
+   {
+    "title": "The Comprehension Strategies of Second Language Readers",
+    "year": 1986,
+    "cited": 717,
+    "doi": "https://doi.org/10.2307/3586295",
+    "type": "article",
+    "venue": "TESOL Quarterly",
+    "abstract": "Think-aloud protocols, a version of verbal report in which participants state their thoughts and behaviors, have become increasingly popular as a means of studying the comprehension processes of native English speakers. The study reported in this article used think-alouds to examine the comprehension strategies used by college-level students-both native speakers of English and nonnative speakers--enrolled in remedial reading classes as they read material from a college textbook. Poor readers (those who had failed the college's reading proficiency test) were chosen for study because they are the ones at whom college remedial reading programs are aimed. Furthermore, their use of comprehension strategies has not attained the degree of automaticity found in fluent readers. Thus, they may be more aware of how they solve the problems they encounter as they read. Some of the strategies used by the ESL and native-speaking readers in the study are described. Strategy use is related to measures of memory and comprehension and to academic performance, and implications for teaching are discussed. The thoughts that wander or rush through the minds of readers, the searches and struggles for meaning, the reflections and associations, are hidden from the outside observer. Yet this struggle and search for control are the core of reading comprehension. For teachers, knowledge of the components a"
+   },
+   {
+    "title": "Beginning Literacy with Language: Young Children Learning at Home and School",
+    "year": 2002,
+    "cited": 685,
+    "doi": "https://doi.org/10.1097/00004703-200206000-00013",
+    "type": "article",
+    "venue": "Journal of Developmental & Behavioral Pediatrics",
+    "abstract": "Beginning Literacy with Language: Young Children Learning at Home and School edited by David K. Dickinson and Patton O. Tabors Baltimore, MD, Paul H. Brookes Publishing Co., 2001, 409 pp, $29.95 (softcover). Beginning Literacy with Language describes the methods and results of the Home-School Study of Language and Literacy. The study, which began in 1987, is the product of a collaborative effort involving researchers and educators at the Harvard Graduate School of Education, Tufts University, Clark University, and the Education Development Center in Newton, Massachusetts. The primary interest of the investigators is the relationship between extended discourse during the preschool period and later language and literacy outcomes in children of low-income families. The investigators define extended discourse as “talk that requires participants to develop understandings beyond the here and now and that requires the use of several utterances or turns to build a linguistic structure, such as in explanations, narratives, or pretend.” In the Home-School Study, 84 English-speaking families with 3-year-old children eligible for either Head Start or subsidized child care or health care were enrolled. During the preschool period, families received yearly assessments, performed by observation and interview at home and at school, of the child’s exposure to language and literacy. In kindergar"
+   },
+   {
+    "title": "Explicit and implicit processing of words and pseudowords by adult developmental dyslexics",
+    "year": 1999,
+    "cited": 553,
+    "doi": "https://doi.org/10.1093/brain/122.10.1901",
+    "type": "article",
+    "venue": "Brain",
+    "abstract": "Two groups of male university students who had been diagnosed as dyslexic when younger, and two groups of control subjects of similar age and IQ to the dyslexics, were scanned whilst reading aloud and during a task where reading was implicit. The dyslexics performed less well than their peers on a range of literacy tasks and were strikingly impaired on phonological tasks. In the reading aloud experiment, simple words and pseudowords were presented at a slow pace so that reading accuracy was equal for dyslexics and controls. Relative to rest, both normal and dyslexic groups activated the same peri- and extra-sylvian regions of the left hemisphere that are known to be involved in reading. However, the dyslexic readers showed less activation than controls in the left posterior inferior temporal cortex [Brodmann area (BA) 37, or Wernicke's Wortschatz], left cerebellum, left thalamus and medial extrastriate cortex. In the implicit reading experiment, word and pseudoword processing was contrasted to visually matched false fonts while subjects performed a feature detection paradigm. The dyslexic readers showed reduced activation in BA 37 relative to normals suggesting that this group difference, seen in both experiments, resides in highly automated aspects of the reading process. Since BA 37 has been implicated previously in modality-independent naming, the reduced activation may indi"
+   },
+   {
+    "title": "The effects of prior knowledge and text structure on comprehension processes during reading of scientific texts",
+    "year": 2007,
+    "cited": 455,
+    "doi": "https://doi.org/10.3758/bf03193491",
+    "type": "article",
+    "venue": "Memory & Cognition",
+    "abstract": ""
+   },
+   {
+    "title": "Phonological alexia: three dissociations.",
+    "year": 1979,
+    "cited": 449,
+    "doi": "https://doi.org/10.1136/jnnp.42.12.1115",
+    "type": "article",
+    "venue": "Journal of Neurology Neurosurgery & Psychiatry",
+    "abstract": "Three dissociations were observed in a case of alexia: a disturbance of reading, without comparable disturbance of oral expression, oral comprehension, writing, or spelling aloud; a disturbance of the phonological reading process, without disturbance of the non-phonological reading process; a disturbance located at the level of the phonological stage, without disturbance of the perceptual and expressive stages. This pattern of results has been called phonological alexia."
+   },
+   {
+    "title": "The effects of readers’ goals on inference generation and memory for texts",
+    "year": 2001,
+    "cited": 446,
+    "doi": "https://doi.org/10.3758/bf03206376",
+    "type": "article",
+    "venue": "Memory & Cognition",
+    "abstract": ""
+   },
+   {
+    "title": "Reading Abraham Lincoln: An Expert/Expert Study in the Interpretation of Historical Texts",
+    "year": 1998,
+    "cited": 442,
+    "doi": "https://doi.org/10.1016/s0364-0213(99)80043-3",
+    "type": "article",
+    "venue": "Cognitive Science",
+    "abstract": "This study explored how historians with different background knowledge read a series of primary source documents. Two university-based historians thought aloud as they read documents about Abraham Lincoln and the question of slavery, with the broad goal of understanding Lincoln's views on race. The first historian brought detailed content knowledge to the documents; the second historian was familiar with some of the themes in the documents but quickly became confused in the details. After much cognitive flailing, the second historian was able to piece together an interpretative structure that brought him by the task's end to where his more knowledgeable colleague began. Data analysis focused on how, lacking detailed content knowledge, this historian was able to regain his intellectual footing, work through confusion, and resist the urge to simplify. Implications of this work for cognitive analyses in history and education are discussed."
+   },
+   {
+    "title": "Second language reading and vocabulary learning",
+    "year": 1995,
+    "cited": 436,
+    "doi": null,
+    "type": "book",
+    "venue": "Medical Entomology and Zoology",
+    "abstract": "Reading ability and vocabulary knowledge are two of the most important components of performance in a second language, especially in academic settings. Each depend on the other, as vocabulary knowledge is the single most important factor in reading comprehension, while reading is the single most important means by which intermediate and advanced learners acquire new words. This symbiotic relationship is the subject of this volume. The authors argue that building vocabulary through reading is a fruitful but complex activity that needs better understanding and more careful guidance. This book is unique in its emphases on original research. Eight of the 14 chapters are empirical studies published for the first time, including classroom-based case studies, experimental research, and think-aloud protocol analysis. In every chapter, consideration is given to the pedagogical implications and possible applications of the research findings. Lengthy editorial comments at the end of each chapter reinforce this practical concern."
+   },
+   {
+    "title": "The Effectiveness of L2 Pronunciation Instruction: A Narrative Review",
+    "year": 2014,
+    "cited": 431,
+    "doi": "https://doi.org/10.1093/applin/amu076",
+    "type": "review",
+    "venue": "Applied Linguistics",
+    "abstract": "Research on the efficacy of second language (L2) pronunciation instruction has produced mixed results, despite reports of significant improvement in many studies. Possible explanations for divergent outcomes include learner individual differences, goals and foci of instruction, type and duration of instructional input, and assessment procedures. After identifying key concepts, we survey 75 L2 pronunciation studies, particularly their methods and results. Despite a move towards emphasizing speech intelligibility and comprehensibility, most research surveyed promoted native-like pronunciation as the target. Although most studies entailed classroom instruction, many featured Computer Assisted Pronunciation Teaching (CAPT). Segmentals were studied more often than suprasegmentals. The amount of instruction required to effect change was related to researchers’ goals; interventions focusing on a single feature were generally shorter than those addressing more issues. Reading-aloud tasks were the most common form of assessment; very few studies measured spontaneous speech. The attribution of improvement as a result of instruction was compromised in some instances by lack of a control group. We summarize our findings, highlight limitations of current research, and offer suggestions for future directions."
+   }
+  ]
+ },
+ "D4_shadowing": {
+  "core": "shadowing",
+  "extra": "second language listening OR pronunciation",
+  "count": 12734,
+  "works": [
+   {
+    "title": "Legacies: the story of the immigrant second generation",
+    "year": 2002,
+    "cited": 4569,
+    "doi": "https://doi.org/10.5860/choice.39-3456",
+    "type": "book-review",
+    "venue": "Choice Reviews Online",
+    "abstract": "List of Tables and Figures Preface Acknowledgments 1. Twelve Stories Miami Stories MarIa de los Angeles and Yvette Santana: August 1993 Melanie Fernandez-Rey: September 1993 Aristide Maillol: August 1993 Armando and Luis Hern*ndez: July 1995 Mary Patterson: February 1995 EfrEn Montejo: May 1994 San Diego Stories Jorge, Olga, Miguel Angel, and Estela Cardozo: January 1994 Quy Nguyen: December 1987 Bennie and Jennifer Montoya: October 1995 Sophy Keng: November 1987 - June 1988 Yolanda and Carlos Munoz: March 1994 Boua Cha: 1988 - 1990 2. The New Americans: An Overview Immigration Yesterday and Today The Size and Concentration of the Second Generation Studying the New Second Generation: The Children of Immigrants Longitudinal Study The New Second Generation at a Glance Census Results CILS Results 3. Not Everyone Is Chosen: Segmented Assimilation and Its Determinants How Immigrants Are Received: Modes of Incorporation and Their Consequences Acculturation and Role Reversal Where They Grow Up: Challenges to Second-Generation Adaptation Race Labor Markets Countercultures Confronting the Challenge: Immigrant Social Capital Parental Status, Family Structure, and Gender The Immigrant Community Conclusion 4. Making It in America Early Adaptation and Achievement General Trends Nationality and Achievement Determinants of Parental Economic Achievement Interaction Effects Nationality and Fami"
+   },
+   {
+    "title": "Deep Learning‐Based Crack Damage Detection Using Convolutional Neural Networks",
+    "year": 2017,
+    "cited": 3274,
+    "doi": "https://doi.org/10.1111/mice.12263",
+    "type": "article",
+    "venue": "Computer-Aided Civil and Infrastructure Engineering",
+    "abstract": "A number of image processing techniques (IPTs) have been implemented for detecting civil infrastructure defects to partially replace human-conducted onsite inspections. These IPTs are primarily used to manipulate images to extract defect features, such as cracks in concrete and steel surfaces. However, the extensively varying real-world situations (e.g., lighting and shadow changes) can lead to challenges to the wide adoption of IPTs. To overcome these challenges, this article proposes a vision-based method using a deep architecture of convolutional neural networks (CNNs) for detecting concrete cracks without calculating the defect features. As CNNs are capable of learning image features automatically, the proposed method works without the conjugation of IPTs for extracting features. The designed CNN is trained on 40 K images of 256 × 256 pixel resolutions and, consequently, records with about 98% accuracy. The trained CNN is combined with a sliding window technique to scan any image size larger than 256 × 256 pixel resolutions. The robustness and adaptability of the proposed approach are tested on 55 images of 5,888 × 3,584 pixel resolutions taken from a different structure which is not used for training and validation processes under various conditions (e.g., strong light spot, shadows, and very thin cracks). Comparative studies are conducted to examine the performance of the"
+   },
+   {
+    "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+    "year": 2020,
+    "cited": 1921,
+    "doi": "https://doi.org/10.1109/access.2020.2970143",
+    "type": "article",
+    "venue": "IEEE Access",
+    "abstract": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence, big data cybernetics, data processing and management tools bring the promise of digital twins and their impact on society closer to reality. Digital twinning is now an important and emerging trend in many applications. Also referred to as a computational megamodel, device shadow, mirrored system, avatar or a synchronized virtual prototype, there can be no doubt that a digital twin plays a transformative role not only in how we design and operate cyber-physical intelligent systems, but also in how we advance the modularity of multi-disciplinary systems to tackle fundamental barriers not addressed by the current, evolutionary modeling practices. In this work, we review the recent status of methodologies and techniques related to the construction of digital twins mostly from a modeling perspective. Our aim is to provide a detailed coverage of the current challenges and enabling technologies along with recommendations and reflections for various stakeholders."
+   },
+   {
+    "title": "The tasselled cap - A graphic description of the spectral-temporal development of agricultural crops as seen by Landsat",
+    "year": 1976,
+    "cited": 1418,
+    "doi": null,
+    "type": "article",
+    "venue": "Purdue e-Pubs (Purdue University System)",
+    "abstract": "The time trajectories of agricultural data points as seen in LANDSAT signal space form a pattern suggestive of a tasselled woolly cap. Using this easily visualized three dimensional construct most of the important phenomena of crop development and observation variables are pointed out, named, discussed and measured. The important crop phenomena described are the distribution of signals from bare soil, the processes of green development, of yellow development, of shadowing and of harvesting. The important external variables include view angle, sun angle, atmospheric haze, and atmospheric water vapor. The development of a quantitative picture of the tasselled cap depends upon crop and atmosphere effects modeling and upon empirical observation of data signals. Quantitative data from a composite of these sources is given. The tasselled cap structure is illustrated with cluster plots and diagrams. The tasselled cap is a fertile source of ideas for processing techniques. Examples discussed include a) A linear preprocessing transformation which isolates green development, yellow development and soil brightness and allows the reduction of the dimension of the feature space. b) The use of specific measurable pattern elements of the tasselled cap structure to estimate and correct atmospheric haze and moisture effects."
+   },
+   {
+    "title": "EPS09 — A new generation of NLO and LO nuclear parton distribution functions",
+    "year": 2009,
+    "cited": 859,
+    "doi": "https://doi.org/10.1088/1126-6708/2009/04/065",
+    "type": "article",
+    "venue": "Journal of High Energy Physics",
+    "abstract": ""
+   },
+   {
+    "title": "Fiscal Policy in a Depressed Economy",
+    "year": 2012,
+    "cited": 828,
+    "doi": "https://doi.org/10.1353/eca.2012.0000",
+    "type": "article",
+    "venue": "Brookings Papers on Economic Activity",
+    "abstract": "In a depressed economy, with short-term nominal interest rates at their zero lower bound, ample cyclical unemployment, and excess capacity, increased government purchases would be neither offset by the monetary authority raising interest rates nor neutralized by supply-side bottlenecks. Then even a small amount of hysteresis—even a small shadow cast on future potential output by the cyclical downturn—means, by simple arithmetic, that expansionary fiscal policy is likely to be self-financing. Even if it is not, it is highly likely to pass the sensible benefit-cost test of raising the present value of future potential output. Thus, at the zero bound, where the central bank cannot or will not but in any event does not perform its full role in stabilization policy, fiscal policy has the stabilization policy mission that others have convincingly argued it lacks in normal times. Whereas many economists have assumed that the path of potential output is invariant to even a deep and prolonged downturn, the available evidence raises a strong fear that hysteresis is indeed a factor. Although nothing in our analysis calls into question the importance of sustainable fiscal policies, it strongly suggests the need for caution regarding the pace of fiscal consolidation."
+   },
+   {
+    "title": "The impact of tax morale and institutional quality on the shadow economy",
+    "year": 2008,
+    "cited": 711,
+    "doi": "https://doi.org/10.1016/j.joep.2008.08.004",
+    "type": "article",
+    "venue": "Journal of Economic Psychology",
+    "abstract": ""
+   },
+   {
+    "title": "Building Online Learning Communities: Effective Strategies for the Virtual Classroom",
+    "year": 2007,
+    "cited": 684,
+    "doi": null,
+    "type": "article",
+    "venue": null,
+    "abstract": "List of Exhibits. Preface to the Second Edition. Acknowledgments. The Authors. PART ONE: The Learning Community in Online Learning. One: When Teaching and Learning Leave the Classroom. Online Issues and Concerns. Students Online. Making the Transition and Establishing Presence. The Search for Knowledge and Meaning in the Online Classroom. Putting the Pieces Together. New Approaches, New Skills. Implications. Two: Recontextualizing Community. The Importance of Community. Community Online. The Element of Social Presence. Coalescence and Belonging Online. Recontextualizing Community. Community in the Virtual Classroom. Participation and Desired Outcomes in the Online Classroom. Three: The Human Side of Online Learning. The Need for Human Contact. Connectedness and Coalescence. Shared Responsibility, Rules, and Norms. Roles and Participation. Shadow Issues: The Issues We Simply Don't Want to Face. Other Psychological Issues. Ritual as the Psychological Expression of Community. Spiritual Issues. Culture and Language Issues. Vulnerability, Ethics, and Privacy. Final Thoughts. Four: Practical Considerations in Online Learning. About Time. Group Size. Cost and Other Administrative Issues. Online Security. Five: Managing the Relationship to Technology. The Relationship of Person to Machine. Technology as a Facilitative Tool. Excuse Us, We Are Now Experiencing Technical Difficulties. Six"
+   },
+   {
+    "title": "Plant–pollinator Interactions: From Specialization To Generalization",
+    "year": 2006,
+    "cited": 658,
+    "doi": "https://doi.org/10.1093/condor/108.4.986",
+    "type": "article",
+    "venue": "Ornithological Applications",
+    "abstract": "In 1985 I was present at a lecture in which Nat Wheelwright proposed that the mutualism between seed-dispersing birds and fruit-bearing plants was characterized by lack of specialization in both partners. He gave convincing evidence for the paucity of obligate one-to-one specialization, and explained the reason why extreme specializations in these systems ought to be rare (Wheelwright and Orians 1982). In the discussion after the lecture, Pete Feinsinger expressed a similar view of plant–pollinator systems. He suggested that pollination systems shared with dispersal systems a dearth of tight dependence, one-to-one coevolution, and reciprocal specialization. For over two decades, I assumed that Wheelwright's and Feinsinger's perspective was orthodoxy; my reading of the animal–plant interactions literature did not dispel this notion. John Thompson (1994), one of the influential voices in the field, wrote: “…extreme specialization occurs even less commonly in free-living mutualisms (such as pollination and seed-dispersal [emphasis added]) than in predators and grazers” (p. 178). Hence, I was interested when I read the title of this edited volume: Plant–Pollinator Interactions: From Specialization to Generalization. Maybe it was time to revise my old-fashioned notions and embrace a new paradigm—perhaps one in which specialization in plant–pollinator systems was more important than "
+   },
+   {
+    "title": "Social exchange theory: Systematic review and future directions",
+    "year": 2023,
+    "cited": 609,
+    "doi": "https://doi.org/10.3389/fpsyg.2022.1015921",
+    "type": "review",
+    "venue": "Frontiers in Psychology",
+    "abstract": "Social exchange theory (SET) is one of the most influential theories in social sciences, which has implications across various fields. Despite its usefulness being a typical social transaction, there is a need to look at it from the lens of psychological transactions to further its evolution and to identify future directions. After generally reviewing 3,649 articles from the Social Science Citation Index and Scopus, a total of 46 articles were selected for final review using a comprehensive systematic review approach. We have highlighted the need for further research in psychological transactions, reciprocity principles, exchange relations, and the impact of various factors on the exchange process. Among other exchange rules (social, economic, and psychological) and transactions (social, economic, and psychological), this research provides an elevation platform for the less explored exchange rules in psychological transactions. Among other theories in the social sciences, social exchange theory is a theory that shadows many other theories under its umbrella."
+   }
+  ]
+ },
+ "E1_percept_prod": {
+  "core": "perceptual training",
+  "extra": "production generalization second language",
+  "count": 416,
+  "works": [
+   {
+    "title": "Lexical Information Drives Perceptual Learning of Distorted Speech: Evidence From the Comprehension of Noise-Vocoded Sentences.",
+    "year": 2005,
+    "cited": 530,
+    "doi": "https://doi.org/10.1037/0096-3445.134.2.222",
+    "type": "article",
+    "venue": "Journal of Experimental Psychology General",
+    "abstract": "Speech comprehension is resistant to acoustic distortion in the input, reflecting listeners' ability to adjust perceptual processes to match the speech input. For noise-vocoded sentences, a manipulation that removes spectral detail from speech, listeners' reporting improved from near 0% to 70% correct over 30 sentences (Experiment 1). Learning was enhanced if listeners heard distorted sentences while they knew the identity of the undistorted target (Experiments 2 and 3). Learning was absent when listeners were trained with nonword sentences (Experiments 4 and 5), although the meaning of the training sentences did not affect learning (Experiment 5). Perceptual learning of noise-vocoded speech depends on higher level information, consistent with top-down, lexically driven learning. Similar processes may facilitate comprehension of speech in an unfamiliar accent or following cochlear implantation."
+   },
+   {
+    "title": "Training American listeners to perceive Mandarin tones",
+    "year": 1999,
+    "cited": 521,
+    "doi": "https://doi.org/10.1121/1.428217",
+    "type": "article",
+    "venue": "The Journal of the Acoustical Society of America",
+    "abstract": "Auditory training has been shown to be effective in the identification of non-native segmental distinctions. In this study, it was investigated whether such training is applicable to the acquisition of non-native suprasegmental contrasts, i.c., Mandarin tones. Using the high-variability paradigm, eight American learners of Mandarin were trained in eight sessions during the course of two weeks to identify the four tones in natural words produced by native Mandarin talkers. The trainees' identification accuracy revealed an average 21% increase from the pretest to the post-test, and the improvement gained in training was generalized to new stimuli (18% increase) and to new talkers and stimuli (25% increase). Moreover, the six-month retention test showed that the improvement was retained long after training by an average 21% increase from the pretest. The results are discussed in terms of non-native suprasegmental perceptual modification, and the analogies between L2 acquisition processes at the segmental and suprasegmental levels."
+   },
+   {
+    "title": "Training Japanese listeners to identify English /r/and /l/: Long-term retention of learning in perception and production",
+    "year": 1999,
+    "cited": 470,
+    "doi": "https://doi.org/10.3758/bf03206911",
+    "type": "article",
+    "venue": "Perception & Psychophysics",
+    "abstract": ""
+   },
+   {
+    "title": "Acoustic and perceptual evaluation of Mandarin tone productions before and after perceptual training",
+    "year": 2003,
+    "cited": 368,
+    "doi": "https://doi.org/10.1121/1.1531176",
+    "type": "article",
+    "venue": "The Journal of the Acoustical Society of America",
+    "abstract": "Training American listeners to perceive Mandarin tones has been shown to be effective, with trainees' identification improving by 21%. Improvement also generalized to new stimuli and new talkers, and was retained when tested six months after training [Y. Wang et al., J. Acoust. Soc. Am. 106, 3649-3658 (1999)]. The present study investigates whether the tone contrasts gained perceptually transferred to production. Before their perception pretest and after their post-test, the trainees were recorded producing a list of Mandarin words. Their productions were first judged by native Mandarin listeners in an identification task. Identification of trainees' post-test tone productions improved by 18% relative to their pretest productions, indicating significant tone production improvement after perceptual training. Acoustic analyses of the pre- and post-training productions further reveal the nature of the improvement, showing that post-training tone contours approximate native norms to a greater degree than pretraining tone contours. Furthermore, pitch height and pitch contour are not mastered in parallel, with the former being more resistant to improvement than the latter. These results are discussed in terms of the relationship between non-native tone perception and production as well as learning at the suprasegmental level."
+   },
+   {
+    "title": "Confusions Among Visually Perceived Consonants",
+    "year": 1968,
+    "cited": 335,
+    "doi": "https://doi.org/10.1044/jshr.1104.796",
+    "type": "article",
+    "venue": "Journal of Speech and Hearing Research",
+    "abstract": "No AccessJournal of Speech and Hearing ResearchResearch Article1 Dec 1968Confusions Among Visually Perceived Consonants Cletus G. Fisher Cletus G. Fisher University of Iowa, Iowa City, Iowa Google Scholar https://doi.org/10.1044/jshr.1104.796 SectionsAboutPDF ToolsAdd to favoritesDownload CitationTrack Citations ShareFacebookTwitterLinked In Eighteen college students with normal hearing responded to the visual perception of initial and final consonants in an English-like phonetic environment in a test of the homopheny of consonant sounds of English. The Multiple-choice Intelligibility Test provided stimulus items but special response sheets were provided to allow each subject a possible response of any consonant judged homotypical or homorganic to the stimulus item. Correct answers as possible responses were deleted to provide a usable number of confusions. Subjects were not aware of the deletion of correct responses even after the task was completed. Resulting confusion matrices were analyzed for significant confusions among consonants; these confusions were grouped into mutually exclusive classes termed visemes. The results tend to support previously published linguistic groupings of homophenous sounds rather than the classical listing from the developers of speechreading methodology. Variations from the former are explained in terms of the addition of minimal phonetic redund"
+   },
+   {
+    "title": "Phonological Abstraction in the Mental Lexicon",
+    "year": 2006,
+    "cited": 331,
+    "doi": "https://doi.org/10.1207/s15516709cog0000_79",
+    "type": "article",
+    "venue": "Cognitive Science",
+    "abstract": "A perceptual learning experiment provides evidence that the mental lexicon cannot consist solely of detailed acoustic traces of recognition episodes. In a training lexical decision phase, listeners heard an ambiguous [f-s] fricative sound, replacing either [f] or [s] in words. In a test phase, listeners then made lexical decisions to visual targets following auditory primes. Critical materials were minimal pairs that could be a word with either [f] or [s] (cf. English knife-nice), none of which had been heard in training. Listeners interpreted the minimal pair words differently in the second phase according to the training received in the first phase. Therefore, lexically mediated retuning of phoneme perception not only influences categorical decisions about fricatives (Norris, McQueen, & Cutler, 2003), but also benefits recognition of words outside the training set. The observed generalization across words suggests that this retuning occurs prelexically. Therefore, lexical processing involves sublexical phonological abstraction, not only accumulation of acoustic episodes."
+   },
+   {
+    "title": "Success and failure in teaching the [r]-[l] contrast to Japanese adults: Tests of a Hebbian model of plasticity and stabilization in spoken language perception",
+    "year": 2002,
+    "cited": 303,
+    "doi": "https://doi.org/10.3758/cabn.2.2.89",
+    "type": "article",
+    "venue": "Cognitive Affective & Behavioral Neuroscience",
+    "abstract": ""
+   },
+   {
+    "title": "Learning a novel phonological contrast depends on interactions between individual differences and training paradigm design",
+    "year": 2011,
+    "cited": 284,
+    "doi": "https://doi.org/10.1121/1.3593366",
+    "type": "article",
+    "venue": "The Journal of the Acoustical Society of America",
+    "abstract": "Studies evaluating phonological contrast learning typically investigate either the predictiveness of specific pretraining aptitude measures or the efficacy of different instructional paradigms. However, little research considers how these factors interact--whether different students learn better from different types of instruction--and what the psychological basis for any interaction might be. The present study demonstrates that successfully learning a foreign-language phonological contrast for pitch depends on an interaction between individual differences in perceptual abilities and the design of the training paradigm. Training from stimuli with high acoustic-phonetic variability is generally thought to improve learning; however, we found high-variability training enhanced learning only for individuals with strong perceptual abilities. Learners with weaker perceptual abilities were actually impaired by high-variability training relative to a low-variability condition. A second experiment assessing variations on the high-variability training design determined that the property of this learning environment most detrimental to perceptually weak learners is the amount of trial-by-trial variability. Learners' perceptual limitations can thus override the benefits of high-variability training where trial-by-trial variability in other irrelevant acoustic-phonetic features obfuscates a"
+   },
+   {
+    "title": "Perceptual learning of systematic variation in Spanish-accented speech",
+    "year": 2009,
+    "cited": 227,
+    "doi": "https://doi.org/10.1121/1.3101452",
+    "type": "article",
+    "venue": "The Journal of the Acoustical Society of America",
+    "abstract": "Spoken language is characterized by an enormous amount of variability in how linguistic segments are realized. In order to investigate how speech perceptual processes accommodate to multiple sources of variation, adult native speakers of American English were trained with English words or sentences produced by six Spanish-accented talkers. At test, listeners transcribed utterances produced by six familiar or unfamiliar Spanish-accented talkers. With only brief exposure, listeners perceptually adapted to accent-general regularities in spoken language, generalizing to novel accented words and sentences produced by unfamiliar accented speakers. Acoustic properties of vowel production and their relation to identification performance were assessed to determine if the English listeners were sensitive to systematic variation in the realization of accented vowels. Vowels that showed the most improvement after Spanish-accented training were distinct from nearby vowels in terms of their acoustic characteristics. These findings suggest that the speech perceptual system dynamically adjusts to the acoustic consequences of changes in talker's voice and accent."
+   },
+   {
+    "title": "Training to Improve Hearing Speech in Noise: Biological Mechanisms",
+    "year": 2011,
+    "cited": 222,
+    "doi": "https://doi.org/10.1093/cercor/bhr196",
+    "type": "article",
+    "venue": "Cerebral Cortex",
+    "abstract": "We investigated training-related improvements in listening in noise and the biological mechanisms mediating these improvements. Training-related malleability was examined using a program that incorporates cognitively based listening exercises to improve speech-in-noise perception. Before and after training, auditory brainstem responses to a speech syllable were recorded in quiet and multitalker noise from adults who ranged in their speech-in-noise perceptual ability. Controls did not undergo training but were tested at intervals equivalent to the trained subjects. Trained subjects exhibited significant improvements in speech-in-noise perception that were retained 6 months later. Subcortical responses in noise demonstrated training-related enhancements in the encoding of pitch-related cues (the fundamental frequency and the second harmonic), particularly for the time-varying portion of the syllable that is most vulnerable to perceptual disruption (the formant transition region). Subjects with the largest strength of pitch encoding at pretest showed the greatest perceptual improvement. Controls exhibited neither neurophysiological nor perceptual changes. We provide the first demonstration that short-term training can improve the neural representation of cues important for speech-in-noise perception. These results implicate and delineate biological mechanisms contributing to learn"
+   }
+  ]
+ },
+ "E3_accent": {
+  "core": "accent reduction",
+  "extra": "intelligibility training",
+  "error": "HTTP Error 429: Too Many Requests",
+  "works": []
+ },
+ "F1_repeat_fixed": {
+  "core": "repetition",
+  "extra": "formulaic sequences fluency",
+  "error": "HTTP Error 429: Too Many Requests",
+  "works": []
+ }
+}

@@ -1,0 +1,6 @@
+# Windows / macOS system junk only — all project data is committed
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,38 @@
+  retry 0 HTTP Error 429: Too Many Requests
+  retry 1 HTTP Error 429: Too Many Requests
+  retry 2 HTTP Error 429: Too Many Requests
+  retry 3 HTTP Error 429: Too Many Requests
+
+### A1_reread None
+  retry 0 HTTP Error 429: Too Many Requests
+  retry 1 <urlopen error [Errno 2] No such file or directory>
+  retry 2 HTTP Error 429: Too Many Requests
+  retry 3 HTTP Error 429: Too Many Requests
+
+### A3_432 None
+  retry 0 HTTP Error 429: Too Many Requests
+  retry 1 HTTP Error 429: Too Many Requests
+  retry 2 HTTP Error 429: Too Many Requests
+  retry 3 HTTP Error 429: Too Many Requests
+
+### B4_capt None
+  retry 0 HTTP Error 429: Too Many Requests
+  retry 1 HTTP Error 429: Too Many Requests
+  retry 2 HTTP Error 429: Too Many Requests
+  retry 3 HTTP Error 429: Too Many Requests
+
+### C2_intelligibility None
+  retry 0 HTTP Error 429: Too Many Requests
+  retry 1 HTTP Error 429: Too Many Requests
+  retry 2 HTTP Error 429: Too Many Requests
+  retry 3 HTTP Error 429: Too Many Requests
+
+### E3_accent None
+  retry 0 HTTP Error 429: Too Many Requests
+  retry 1 HTTP Error 429: Too Many Requests
+  retry 2 HTTP Error 429: Too Many Requests
+  retry 3 HTTP Error 429: Too Many Requests
+
+### F1_taskrep_pron None
+
+saved
